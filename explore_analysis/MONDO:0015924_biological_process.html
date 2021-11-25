@@ -1,0 +1,108 @@
+<html>
+<head>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/vis/4.16.1/vis.css" type="text/css" />
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/vis/4.16.1/vis-network.min.js"> </script>
+<center>
+<h1></h1>
+</center>
+
+<!-- <link rel="stylesheet" href="../node_modules/vis/dist/vis.min.css" type="text/css" />
+<script type="text/javascript" src="../node_modules/vis/dist/vis.js"> </script>-->
+
+<style type="text/css">
+
+        #mynetwork {
+            width: 100%;
+            height: 750px;
+            background-color: #222222;
+            border: 1px solid lightgray;
+            position: relative;
+            float: left;
+        }
+
+        
+
+        
+
+        
+</style>
+
+</head>
+
+<body>
+<div id = "mynetwork"></div>
+
+
+<script type="text/javascript">
+
+    // initialize global variables.
+    var edges;
+    var nodes;
+    var network; 
+    var container;
+    var options, data;
+
+    
+    // This method is responsible for drawing the graph, returns the drawn network
+    function drawGraph() {
+        var container = document.getElementById('mynetwork');
+        
+        
+
+        // parsing and collecting nodes and edges from the python
+        nodes = new vis.DataSet([{"font": {"color": "black"}, "id": "MONDO:0015924", "label": "MONDO:0015924", "shape": "dot", "title": "MONDO:0015924 Neighbors:\u003cbr\u003eGO:0051344\u003cbr\u003eGO:0042311", "value": 2}, {"font": {"color": "black"}, "id": "GO:0051344", "label": "GO:0051344", "shape": "dot", "title": "GO:0051344 Neighbors:\u003cbr\u003eMONDO:0015924\u003cbr\u003ePUBCHEM.COMPOUND:5311181", "value": 2}, {"font": {"color": "black"}, "id": "GO:0042311", "label": "GO:0042311", "shape": "dot", "title": "GO:0042311 Neighbors:\u003cbr\u003eMONDO:0015924\u003cbr\u003ePUBCHEM.COMPOUND:5311181", "value": 2}, {"font": {"color": "black"}, "id": "PUBCHEM.COMPOUND:5311181", "label": "PUBCHEM.COMPOUND:5311181", "shape": "dot", "title": "PUBCHEM.COMPOUND:5311181 Neighbors:\u003cbr\u003eGO:0051344\u003cbr\u003eGO:0042311", "value": 2}]);
+        edges = new vis.DataSet([{"from": "MONDO:0015924", "to": "GO:0051344", "value": "biolink:correlated_with"}, {"from": "MONDO:0015924", "to": "GO:0042311", "value": "biolink:correlated_with"}, {"from": "GO:0042311", "to": "PUBCHEM.COMPOUND:5311181", "value": "biolink:correlated_with"}, {"from": "GO:0051344", "to": "PUBCHEM.COMPOUND:5311181", "value": "biolink:correlated_with"}]);
+
+        // adding nodes and edges to the graph
+        data = {nodes: nodes, edges: edges};
+
+        var options = {
+    "configure": {
+        "enabled": false
+    },
+    "edges": {
+        "color": {
+            "inherit": true
+        },
+        "smooth": {
+            "enabled": false,
+            "type": "continuous"
+        }
+    },
+    "interaction": {
+        "dragNodes": true,
+        "hideEdgesOnDrag": false,
+        "hideNodesOnDrag": false
+    },
+    "physics": {
+        "enabled": true,
+        "stabilization": {
+            "enabled": true,
+            "fit": true,
+            "iterations": 1000,
+            "onlyDynamicEdges": false,
+            "updateInterval": 50
+        }
+    }
+};
+        
+        
+
+        
+
+        network = new vis.Network(container, data, options);
+	 
+        
+
+
+        
+
+        return network;
+
+    }
+
+    drawGraph();
+
+</script>
+</body>
+</html>

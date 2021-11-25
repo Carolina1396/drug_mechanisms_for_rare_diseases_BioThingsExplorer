@@ -1,0 +1,108 @@
+<html>
+<head>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/vis/4.16.1/vis.css" type="text/css" />
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/vis/4.16.1/vis-network.min.js"> </script>
+<center>
+<h1></h1>
+</center>
+
+<!-- <link rel="stylesheet" href="../node_modules/vis/dist/vis.min.css" type="text/css" />
+<script type="text/javascript" src="../node_modules/vis/dist/vis.js"> </script>-->
+
+<style type="text/css">
+
+        #mynetwork {
+            width: 100%;
+            height: 750px;
+            background-color: #222222;
+            border: 1px solid lightgray;
+            position: relative;
+            float: left;
+        }
+
+        
+
+        
+
+        
+</style>
+
+</head>
+
+<body>
+<div id = "mynetwork"></div>
+
+
+<script type="text/javascript">
+
+    // initialize global variables.
+    var edges;
+    var nodes;
+    var network; 
+    var container;
+    var options, data;
+
+    
+    // This method is responsible for drawing the graph, returns the drawn network
+    function drawGraph() {
+        var container = document.getElementById('mynetwork');
+        
+        
+
+        // parsing and collecting nodes and edges from the python
+        nodes = new vis.DataSet([{"font": {"color": "black"}, "id": "MONDO:0015924", "label": "MONDO:0015924", "shape": "dot", "title": "MONDO:0015924 Neighbors:\u003cbr\u003eNCBIGene:3689\u003cbr\u003eNCBIGene:3717\u003cbr\u003eNCBIGene:284\u003cbr\u003eNCBIGene:6347", "value": 4}, {"font": {"color": "black"}, "id": "NCBIGene:6347", "label": "NCBIGene:6347", "shape": "dot", "title": "NCBIGene:6347 Neighbors:\u003cbr\u003eMONDO:0015924\u003cbr\u003ePUBCHEM.COMPOUND:5311181", "value": 2}, {"font": {"color": "black"}, "id": "NCBIGene:3717", "label": "NCBIGene:3717", "shape": "dot", "title": "NCBIGene:3717 Neighbors:\u003cbr\u003eMONDO:0015924\u003cbr\u003ePUBCHEM.COMPOUND:5311181", "value": 2}, {"font": {"color": "black"}, "id": "NCBIGene:284", "label": "NCBIGene:284", "shape": "dot", "title": "NCBIGene:284 Neighbors:\u003cbr\u003eMONDO:0015924\u003cbr\u003ePUBCHEM.COMPOUND:5311181", "value": 2}, {"font": {"color": "black"}, "id": "NCBIGene:3689", "label": "NCBIGene:3689", "shape": "dot", "title": "NCBIGene:3689 Neighbors:\u003cbr\u003eMONDO:0015924\u003cbr\u003ePUBCHEM.COMPOUND:5311181", "value": 2}, {"font": {"color": "black"}, "id": "PUBCHEM.COMPOUND:5311181", "label": "PUBCHEM.COMPOUND:5311181", "shape": "dot", "title": "PUBCHEM.COMPOUND:5311181 Neighbors:\u003cbr\u003eNCBIGene:3689\u003cbr\u003eNCBIGene:3717\u003cbr\u003eNCBIGene:284\u003cbr\u003eNCBIGene:6347", "value": 4}]);
+        edges = new vis.DataSet([{"from": "MONDO:0015924", "to": "NCBIGene:6347", "value": "biolink:related_to"}, {"from": "MONDO:0015924", "to": "NCBIGene:3717", "value": "biolink:related_to"}, {"from": "MONDO:0015924", "to": "NCBIGene:284", "value": "biolink:related_to"}, {"from": "MONDO:0015924", "to": "NCBIGene:3689", "value": "biolink:related_to"}, {"from": "NCBIGene:284", "to": "PUBCHEM.COMPOUND:5311181", "value": "biolink:entity_positively_regulated_by_entity"}, {"from": "NCBIGene:3717", "to": "PUBCHEM.COMPOUND:5311181", "value": "biolink:entity_negatively_regulated_by_entity"}, {"from": "NCBIGene:3689", "to": "PUBCHEM.COMPOUND:5311181", "value": "biolink:entity_negatively_regulated_by_entity"}, {"from": "NCBIGene:6347", "to": "PUBCHEM.COMPOUND:5311181", "value": "biolink:entity_negatively_regulated_by_entity"}]);
+
+        // adding nodes and edges to the graph
+        data = {nodes: nodes, edges: edges};
+
+        var options = {
+    "configure": {
+        "enabled": false
+    },
+    "edges": {
+        "color": {
+            "inherit": true
+        },
+        "smooth": {
+            "enabled": false,
+            "type": "continuous"
+        }
+    },
+    "interaction": {
+        "dragNodes": true,
+        "hideEdgesOnDrag": false,
+        "hideNodesOnDrag": false
+    },
+    "physics": {
+        "enabled": true,
+        "stabilization": {
+            "enabled": true,
+            "fit": true,
+            "iterations": 1000,
+            "onlyDynamicEdges": false,
+            "updateInterval": 50
+        }
+    }
+};
+        
+        
+
+        
+
+        network = new vis.Network(container, data, options);
+	 
+        
+
+
+        
+
+        return network;
+
+    }
+
+    drawGraph();
+
+</script>
+</body>
+</html>

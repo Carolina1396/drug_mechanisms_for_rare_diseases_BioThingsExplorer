@@ -1,0 +1,34 @@
+{
+    "message": {
+        "query_graph": {
+            "nodes": {
+                "n0": {
+                    "categories": ["biolink:Disease"]
+                },
+                "n1": {
+                    "categories": ["biolink:SmallMolecule"]
+                },
+                "n2": {
+                        "categories": ["biolink:Gene"]
+                },
+                "n3": {
+                    "categories": ["biolink:Gene"]
+                }
+            },
+            "edges": {
+                "e01": {
+                    "subject": "n0",
+                    "object": "n2"
+                },
+                "e02": {
+                    "subject": "n2",
+                    "object": "n3"
+                },
+                "e03": {
+                    "subject": "n3",
+                    "object": "n1"
+                }
+            }
+        }
+    }
+}

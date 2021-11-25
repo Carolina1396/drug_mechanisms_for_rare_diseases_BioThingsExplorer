@@ -1,0 +1,108 @@
+<html>
+<head>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/vis/4.16.1/vis.css" type="text/css" />
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/vis/4.16.1/vis-network.min.js"> </script>
+<center>
+<h1></h1>
+</center>
+
+<!-- <link rel="stylesheet" href="../node_modules/vis/dist/vis.min.css" type="text/css" />
+<script type="text/javascript" src="../node_modules/vis/dist/vis.js"> </script>-->
+
+<style type="text/css">
+
+        #mynetwork {
+            width: 100%;
+            height: 750px;
+            background-color: #222222;
+            border: 1px solid lightgray;
+            position: relative;
+            float: left;
+        }
+
+        
+
+        
+
+        
+</style>
+
+</head>
+
+<body>
+<div id = "mynetwork"></div>
+
+
+<script type="text/javascript">
+
+    // initialize global variables.
+    var edges;
+    var nodes;
+    var network; 
+    var container;
+    var options, data;
+
+    
+    // This method is responsible for drawing the graph, returns the drawn network
+    function drawGraph() {
+        var container = document.getElementById('mynetwork');
+        
+        
+
+        // parsing and collecting nodes and edges from the python
+        nodes = new vis.DataSet([{"font": {"color": "black"}, "id": "MONDO:0015924", "label": "MONDO:0015924", "shape": "dot", "title": "MONDO:0015924 Neighbors:\u003cbr\u003eHP:0012378\u003cbr\u003eHP:0002105\u003cbr\u003eHP:0025406\u003cbr\u003eHP:0002094\u003cbr\u003eHP:0100749", "value": 5}, {"font": {"color": "black"}, "id": "HP:0002105", "label": "HP:0002105", "shape": "dot", "title": "HP:0002105 Neighbors:\u003cbr\u003eMONDO:0015924\u003cbr\u003ePUBCHEM.COMPOUND:5311181", "value": 2}, {"font": {"color": "black"}, "id": "HP:0012378", "label": "HP:0012378", "shape": "dot", "title": "HP:0012378 Neighbors:\u003cbr\u003eMONDO:0015924\u003cbr\u003ePUBCHEM.COMPOUND:5311181", "value": 2}, {"font": {"color": "black"}, "id": "HP:0100749", "label": "HP:0100749", "shape": "dot", "title": "HP:0100749 Neighbors:\u003cbr\u003eMONDO:0015924\u003cbr\u003ePUBCHEM.COMPOUND:5311181", "value": 2}, {"font": {"color": "black"}, "id": "HP:0002094", "label": "HP:0002094", "shape": "dot", "title": "HP:0002094 Neighbors:\u003cbr\u003eMONDO:0015924\u003cbr\u003ePUBCHEM.COMPOUND:5311181", "value": 2}, {"font": {"color": "black"}, "id": "HP:0025406", "label": "HP:0025406", "shape": "dot", "title": "HP:0025406 Neighbors:\u003cbr\u003eMONDO:0015924\u003cbr\u003ePUBCHEM.COMPOUND:5311181", "value": 2}, {"font": {"color": "black"}, "id": "PUBCHEM.COMPOUND:5311181", "label": "PUBCHEM.COMPOUND:5311181", "shape": "dot", "title": "PUBCHEM.COMPOUND:5311181 Neighbors:\u003cbr\u003eHP:0012378\u003cbr\u003eHP:0002105\u003cbr\u003eHP:0025406\u003cbr\u003eHP:0002094\u003cbr\u003eHP:0100749", "value": 5}]);
+        edges = new vis.DataSet([{"from": "MONDO:0015924", "to": "HP:0002105", "value": "biolink:related_to"}, {"from": "MONDO:0015924", "to": "HP:0012378", "value": "biolink:related_to"}, {"from": "MONDO:0015924", "to": "HP:0100749", "value": "biolink:related_to"}, {"from": "MONDO:0015924", "to": "HP:0002094", "value": "biolink:related_to"}, {"from": "MONDO:0015924", "to": "HP:0025406", "value": "biolink:related_to"}, {"from": "HP:0002105", "to": "PUBCHEM.COMPOUND:5311181", "value": "biolink:adverse_event_caused_by"}, {"from": "HP:0100749", "to": "PUBCHEM.COMPOUND:5311181", "value": "biolink:adverse_event_caused_by"}, {"from": "HP:0002094", "to": "PUBCHEM.COMPOUND:5311181", "value": "biolink:adverse_event_caused_by"}, {"from": "HP:0012378", "to": "PUBCHEM.COMPOUND:5311181", "value": "biolink:adverse_event_caused_by"}, {"from": "HP:0025406", "to": "PUBCHEM.COMPOUND:5311181", "value": "biolink:adverse_event_caused_by"}]);
+
+        // adding nodes and edges to the graph
+        data = {nodes: nodes, edges: edges};
+
+        var options = {
+    "configure": {
+        "enabled": false
+    },
+    "edges": {
+        "color": {
+            "inherit": true
+        },
+        "smooth": {
+            "enabled": false,
+            "type": "continuous"
+        }
+    },
+    "interaction": {
+        "dragNodes": true,
+        "hideEdgesOnDrag": false,
+        "hideNodesOnDrag": false
+    },
+    "physics": {
+        "enabled": true,
+        "stabilization": {
+            "enabled": true,
+            "fit": true,
+            "iterations": 1000,
+            "onlyDynamicEdges": false,
+            "updateInterval": 50
+        }
+    }
+};
+        
+        
+
+        
+
+        network = new vis.Network(container, data, options);
+	 
+        
+
+
+        
+
+        return network;
+
+    }
+
+    drawGraph();
+
+</script>
+</body>
+</html>

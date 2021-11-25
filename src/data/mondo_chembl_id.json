@@ -1,0 +1,6901 @@
+[
+ {
+  "gard": 11,
+  "MONDO": "MONDO:0016241",
+  "UNII": [
+   "R7PLA2DM0J"
+  ],
+  "CHEMBL": [
+   "CHEMBL30008"
+  ]
+ },
+ {
+  "gard": 111,
+  "MONDO": "MONDO:0018955",
+  "UNII": [
+   "D3GOY6203T"
+  ],
+  "CHEMBL": [
+   null
+  ]
+ },
+ {
+  "gard": 112,
+  "MONDO": "MONDO:0009971",
+  "UNII": [
+   "5Y5F15120W",
+   "2W15RT5V7V",
+   "KE3U2023NP",
+   "Q4K217VGA9",
+   "S866O45PIG"
+  ],
+  "CHEMBL": [
+   "CHEMBL1472",
+   null,
+   "CHEMBL1201622",
+   "CHEMBL1201447",
+   "CHEMBL1201624"
+  ]
+ },
+ {
+  "gard": 181,
+  "MONDO": "MONDO:0019353",
+  "UNII": [
+   "02DZ1HBF0M",
+   "5XB3671655",
+   "63WI9S8P1M",
+   "JN7W3M3OI7",
+   "BA9QH3P00T"
+  ],
+  "CHEMBL": [
+   "CHEMBL2107821",
+   "CHEMBL2105502",
+   "CHEMBL3967849",
+   null,
+   "CHEMBL1200367"
+  ]
+ },
+ {
+  "gard": 183,
+  "MONDO": "MONDO:0001112",
+  "UNII": [
+   "5QB0T2IUN0"
+  ],
+  "CHEMBL": [
+   "CHEMBL1200706"
+  ]
+ },
+ {
+  "gard": 207,
+  "MONDO": "MONDO:0017282",
+  "UNII": [
+   "F4216019LN"
+  ],
+  "CHEMBL": [
+   "CHEMBL1483"
+  ]
+ },
+ {
+  "gard": 221,
+  "MONDO": "MONDO:0016333",
+  "UNII": [
+   "4JG61K4659"
+  ],
+  "CHEMBL": [
+   null
+  ]
+ },
+ {
+  "gard": 436,
+  "MONDO": "MONDO:0019355",
+  "UNII": [
+   "8K80YB5GMG",
+   "37CQ2C7X93",
+   "3G6834I4PF"
+  ],
+  "CHEMBL": [
+   "CHEMBL1201830",
+   "CHEMBL1201834",
+   "CHEMBL2108054"
+  ]
+ },
+ {
+  "gard": 522,
+  "MONDO": "MONDO:0004967",
+  "UNII": [
+   "RBZ1571X5H",
+   "4FR53SIF3A",
+   "P93RUU11P7",
+   "762RDY0Y2H",
+   "T5IRO3534A",
+   "GZ8VF4M2J8",
+   "6SN82Y9U73",
+   "BKJ8M8G5HI",
+   "E7WED276I5",
+   "YL5FZ2Y5U1",
+   "60158CV180",
+   "4340891KFS",
+   "82S8X8XX8H",
+   "2NDX4B6N8F",
+   "Q6C9WHR03O",
+   "JS606MEA30",
+   "X6SH5T8H76",
+   "A8E516A20K",
+   "SNU299M83Q",
+   "RO03J093CP",
+   "3062P60MH9",
+   "IYZ9TI08W3",
+   "D733ET3F9O"
+  ],
+  "CHEMBL": [
+   null,
+   "CHEMBL1742992",
+   "CHEMBL2108611",
+   "CHEMBL1750",
+   "CHEMBL385978",
+   "CHEMBL305686",
+   "CHEMBL550755",
+   "CHEMBL941",
+   "CHEMBL1200751",
+   "CHEMBL34259",
+   "CHEMBL1201112",
+   "CHEMBL1171837",
+   "CHEMBL1789941",
+   "CHEMBL1743043",
+   "CHEMBL3301574",
+   "CHEMBL3334759",
+   "CHEMBL4297474",
+   "CHEMBL590985",
+   null,
+   null,
+   "CHEMBL2108404",
+   null,
+   "CHEMBL1863514"
+  ]
+ },
+ {
+  "gard": 538,
+  "MONDO": "MONDO:0012883",
+  "UNII": [
+   "5688UTC01R",
+   "S7V92P67HO",
+   "08V52GZ3H9",
+   "7WY7YBI87E"
+  ],
+  "CHEMBL": [
+   "CHEMBL38",
+   null,
+   "CHEMBL25202",
+   "CHEMBL1469"
+  ]
+ },
+ {
+  "gard": 558,
+  "MONDO": "MONDO:0006639",
+  "UNII": [
+   "15A52GPT8T",
+   "KAV15B369O"
+  ],
+  "CHEMBL": [
+   "CHEMBL1091644",
+   "CHEMBL51483"
+  ]
+ },
+ {
+  "gard": 614,
+  "MONDO": "MONDO:0008757",
+  "UNII": [
+   "I7G14NW5EC"
+  ],
+  "CHEMBL": [
+   "CHEMBL1373467"
+  ]
+ },
+ {
+  "gard": 634,
+  "MONDO": "MONDO:0018998",
+  "UNII": [
+   "RR725D715M",
+   "CH2LY7Q64L"
+  ],
+  "CHEMBL": [
+   "CHEMBL81379",
+   null
+  ]
+ },
+ {
+  "gard": 652,
+  "MONDO": "MONDO:0024275",
+  "UNII": [
+   "033KF7V46H",
+   "A08F5XTI6G"
+  ],
+  "CHEMBL": [
+   "CHEMBL1220",
+   "CHEMBL215226"
+  ]
+ },
+ {
+  "gard": 656,
+  "MONDO": "MONDO:0007100",
+  "UNII": [
+   "8FG9H9D31J",
+   "CIF6334OLY",
+   "T12B44A1OE",
+   "ZE6EHM8Z3A"
+  ],
+  "CHEMBL": [
+   "CHEMBL2103837",
+   "CHEMBL1324",
+   "CHEMBL3940890",
+   "CHEMBL4594492"
+  ]
+ },
+ {
+  "gard": 664,
+  "MONDO": "MONDO:0006468",
+  "UNII": [
+   "I5590ES2QZ"
+  ],
+  "CHEMBL": [
+   "CHEMBL1206232"
+  ]
+ },
+ {
+  "gard": 770,
+  "MONDO": "MONDO:0012084",
+  "UNII": [
+   "2C598205QX",
+   "BY6OQ7Q6TP"
+  ],
+  "CHEMBL": [
+   "CHEMBL3400972",
+   null
+  ]
+ },
+ {
+  "gard": 804,
+  "MONDO": "MONDO:0007318",
+  "UNII": [
+   "2W150K0UUC"
+  ],
+  "CHEMBL": [
+   "CHEMBL4297588"
+  ]
+ },
+ {
+  "gard": 848,
+  "MONDO": "MONDO:0007191",
+  "UNII": [
+   "FYS6T7F842",
+   "SD6QCT3TSU",
+   "SML2Y3J35T",
+   "268IL53Q7O",
+   "QX3JU54GYQ"
+  ],
+  "CHEMBL": [
+   "CHEMBL1201580",
+   "CHEMBL628",
+   "CHEMBL107",
+   null,
+   "CHEMBL1743026"
+  ]
+ },
+ {
+  "gard": 867,
+  "MONDO": "MONDO:0015274",
+  "UNII": [
+   "OVF025LA77"
+  ],
+  "CHEMBL": [
+   "CHEMBL214332"
+  ]
+ },
+ {
+  "gard": 871,
+  "MONDO": "MONDO:0019402",
+  "UNII": [
+   "W36ZG6FT64",
+   "J06Y7MXW4D",
+   "IK8S1P79MU",
+   "0QI90BTJ37"
+  ],
+  "CHEMBL": [
+   "CHEMBL413",
+   "CHEMBL556",
+   "CHEMBL4297982",
+   "CHEMBL1743073"
+  ]
+ },
+ {
+  "gard": 878,
+  "MONDO": "MONDO:0022568",
+  "UNII": [
+   "976728SY6Z",
+   "HEC37C70XX"
+  ],
+  "CHEMBL": [
+   "CHEMBL1083993",
+   "CHEMBL1700"
+  ]
+ },
+ {
+  "gard": 1049,
+  "MONDO": "MONDO:0000914",
+  "UNII": [
+   "0867I0N41V"
+  ],
+  "CHEMBL": [
+   "CHEMBL120643"
+  ]
+ },
+ {
+  "gard": 1076,
+  "MONDO": "MONDO:0042233",
+  "UNII": [
+   "31Q44514JV"
+  ],
+  "CHEMBL": [
+   "CHEMBL3137333"
+  ]
+ },
+ {
+  "gard": 1084,
+  "MONDO": "MONDO:0001956",
+  "UNII": [
+   "5QS67N4551"
+  ],
+  "CHEMBL": [
+   "CHEMBL2108350"
+  ]
+ },
+ {
+  "gard": 1107,
+  "MONDO": "MONDO:0022653",
+  "UNII": [
+   "5346058Q7S"
+  ],
+  "CHEMBL": [
+   "CHEMBL1200778"
+  ]
+ },
+ {
+  "gard": 1245,
+  "MONDO": "MONDO:0007309",
+  "UNII": [
+   "PQ6CK8PD0R"
+  ],
+  "CHEMBL": [
+   "CHEMBL196"
+  ]
+ },
+ {
+  "gard": 1280,
+  "MONDO": "MONDO:0013433",
+  "UNII": [
+   "ZAD9OKH9JC",
+   "V78M04F0XC",
+   "UJO03RO3K6",
+   "11Z5AIU653"
+  ],
+  "CHEMBL": [
+   "CHEMBL367149",
+   "CHEMBL17879",
+   "CHEMBL4297920",
+   "CHEMBL2109667"
+  ]
+ },
+ {
+  "gard": 1303,
+  "MONDO": "MONDO:0008978",
+  "UNII": [
+   "Q40W93WPE1"
+  ],
+  "CHEMBL": [
+   "CHEMBL3414621"
+  ]
+ },
+ {
+  "gard": 1467,
+  "MONDO": "MONDO:0018479",
+  "UNII": [
+   "X60608B091"
+  ],
+  "CHEMBL": [
+   "CHEMBL1287935"
+  ]
+ },
+ {
+  "gard": 1474,
+  "MONDO": "MONDO:0022821",
+  "UNII": [
+   "KSV93L7URW",
+   "A6778U5IFY",
+   "CR102F038W"
+  ],
+  "CHEMBL": [
+   "CHEMBL4072132",
+   null,
+   "CHEMBL4298063"
+  ]
+ },
+ {
+  "gard": 1480,
+  "MONDO": "MONDO:0017409",
+  "UNII": [
+   "EAO0TD9B13",
+   "7COI029E6K"
+  ],
+  "CHEMBL": [
+   "CHEMBL265948",
+   null
+  ]
+ },
+ {
+  "gard": 1502,
+  "MONDO": "MONDO:0015183",
+  "UNII": [
+   "NQX9KB6PCL",
+   "ZAD9OKH9JC",
+   "JL5DK93RCL",
+   "0RH81L854J",
+   "1Y17CTI5SR",
+   "37M3MZ001L",
+   "4M3C1913N6",
+   "76LA80IG2G",
+   "9P1872D4OL"
+  ],
+  "CHEMBL": [
+   "CHEMBL1201621",
+   "CHEMBL367149",
+   "CHEMBL45",
+   "CHEMBL930",
+   null,
+   "CHEMBL2107914",
+   "CHEMBL4297761",
+   null,
+   null
+  ]
+ },
+ {
+  "gard": 1608,
+  "MONDO": "MONDO:0010305",
+  "UNII": [
+   "6732XGX1RK"
+  ],
+  "CHEMBL": [
+   "CHEMBL179900"
+  ]
+ },
+ {
+  "gard": 1820,
+  "MONDO": "MONDO:0007608",
+  "UNII": [
+   "QZ62892OFJ",
+   "7NFE54O27T",
+   "18AP231HUP"
+  ],
+  "CHEMBL": [
+   "CHEMBL1770916",
+   "CHEMBL1655",
+   "CHEMBL3601411"
+  ]
+ },
+ {
+  "gard": 1917,
+  "MONDO": "MONDO:0011024",
+  "UNII": [
+   "Y5V2N1KE8U"
+  ],
+  "CHEMBL": [
+   "CHEMBL700"
+  ]
+ },
+ {
+  "gard": 2035,
+  "MONDO": "MONDO:0005737",
+  "UNII": [
+   "BJ507J4LKY",
+   "07EY0HWO2M",
+   "192TJ6PP19",
+   "ZE15FIT23E"
+  ],
+  "CHEMBL": [
+   "CHEMBL539581",
+   "CHEMBL3989996",
+   "CHEMBL29711",
+   "CHEMBL2108479"
+  ]
+ },
+ {
+  "gard": 2150,
+  "MONDO": "MONDO:0017608",
+  "UNII": [
+   "IJ3FUK8MOF"
+  ],
+  "CHEMBL": [
+   null
+  ]
+ },
+ {
+  "gard": 2169,
+  "MONDO": "MONDO:0016025",
+  "UNII": [
+   "5ML58O200F"
+  ],
+  "CHEMBL": [
+   "CHEMBL118478"
+  ]
+ },
+ {
+  "gard": 2238,
+  "MONDO": "MONDO:0009211",
+  "UNII": [
+   "AC71R787OV"
+  ],
+  "CHEMBL": [
+   "CHEMBL4297869"
+  ]
+ },
+ {
+  "gard": 2245,
+  "MONDO": "MONDO:0008542",
+  "UNII": [
+   "1WS297W6MV"
+  ],
+  "CHEMBL": [
+   "CHEMBL1215"
+  ]
+ },
+ {
+  "gard": 2320,
+  "MONDO": "MONDO:0018060",
+  "UNII": [
+   "N94833051K"
+  ],
+  "CHEMBL": [
+   null
+  ]
+ },
+ {
+  "gard": 2327,
+  "MONDO": "MONDO:0005164",
+  "UNII": [
+   "8A1O1M485B"
+  ],
+  "CHEMBL": [
+   "CHEMBL1642"
+  ]
+ },
+ {
+  "gard": 2356,
+  "MONDO": "MONDO:0018906",
+  "UNII": [
+   "1X70OSD4VX",
+   "4Z63YK6E0E",
+   "F0P408N6V4",
+   "A8Q8I19Q20",
+   "O43472U9X8",
+   "YG57I8T5M0",
+   "6CX4AEX3KR"
+  ],
+  "CHEMBL": [
+   "CHEMBL1873475",
+   "CHEMBL1743007",
+   "CHEMBL848",
+   "CHEMBL1201746",
+   "CHEMBL1743048",
+   "CHEMBL2216870",
+   "CHEMBL3989913"
+  ]
+ },
+ {
+  "gard": 2441,
+  "MONDO": "MONDO:0009265",
+  "UNII": [
+   "27T56C7KK0",
+   "Q6U6J48BWY"
+  ],
+  "CHEMBL": [
+   "CHEMBL1201633",
+   "CHEMBL1201632"
+  ]
+ },
+ {
+  "gard": 2491,
+  "MONDO": "MONDO:0018177",
+  "UNII": [
+   "31YO63LBSN",
+   "53VG71J90J",
+   "SO9S6QZB4R",
+   "01O4K0631N",
+   "145TFV465S",
+   "7V2F1075HD",
+   "T678746713",
+   "NQU9IPY4K9",
+   "886U3H6UFF",
+   "UC96G28EQF",
+   "M0TTH61XC5",
+   "C28MV4IM0B",
+   "554Z48XN5E",
+   "27B90X776A",
+   "YF1K15M17Y",
+   "19GBJ60SN5",
+   "U3P01618RT",
+   "2BTG5MX2Q2",
+   "3YEA04NV6H",
+   "483AU1Y5CZ",
+   "KM6239D2QV",
+   "ND1SOF0DLU",
+   "P5DKZ70636",
+   "PA7UX1FFYQ",
+   "Q26B92650V",
+   "RV823G6G67",
+   "08RQ4CQ601",
+   "3WJQ0SDW1A",
+   "798536Z7S0",
+   "FV4Y0JO2CX",
+   "J56RKY13OV",
+   "K3L4X0501F",
+   "MTM792B442",
+   "ZWL6BH0E0S"
+  ],
+  "CHEMBL": [
+   "CHEMBL2108738",
+   null,
+   "CHEMBL2103851",
+   "CHEMBL506871",
+   "CHEMBL267777",
+   "CHEMBL286494",
+   "CHEMBL3545365",
+   "CHEMBL491473",
+   "CHEMBL76",
+   "CHEMBL300138",
+   "CHEMBL19449",
+   "CHEMBL2107818",
+   "CHEMBL1515",
+   "CHEMBL45816",
+   "CHEMBL810",
+   "CHEMBL190461",
+   "CHEMBL185",
+   "CHEMBL4297449",
+   "CHEMBL412309",
+   "CHEMBL1899801",
+   "CHEMBL4207458",
+   "CHEMBL483465",
+   "CHEMBL3813842",
+   "CHEMBL549748",
+   "CHEMBL573677",
+   null,
+   "CHEMBL4594551",
+   null,
+   null,
+   null,
+   null,
+   "CHEMBL2107863",
+   "CHEMBL4594485",
+   null
+  ]
+ },
+ {
+  "gard": 2551,
+  "MONDO": "MONDO:0009303",
+  "UNII": [
+   "UVJ7NL8S2P"
+  ],
+  "CHEMBL": [
+   "CHEMBL4297981"
+  ]
+ },
+ {
+  "gard": 2650,
+  "MONDO": "MONDO:0018048",
+  "UNII": [
+   "Y43GF64R34",
+   "JED5K35YGL"
+  ],
+  "CHEMBL": [
+   "CHEMBL1201666",
+   "CHEMBL494"
+  ]
+ },
+ {
+  "gard": 2658,
+  "MONDO": "MONDO:0010161",
+  "UNII": [
+   "K5BN214699"
+  ],
+  "CHEMBL": [
+   "CHEMBL1337"
+  ]
+ },
+ {
+  "gard": 2714,
+  "MONDO": "MONDO:0004952",
+  "UNII": [
+   "DPT0O3T46P",
+   "31YO63LBSN",
+   "7XL5ISS668",
+   "1578EUB98L",
+   "4V9P667Y2G",
+   "2K59L7G59M"
+  ],
+  "CHEMBL": [
+   "CHEMBL3137343",
+   "CHEMBL2108738",
+   "CHEMBL1742994",
+   "CHEMBL4296717",
+   "CHEMBL481122",
+   "CHEMBL2216863"
+  ]
+ },
+ {
+  "gard": 2788,
+  "MONDO": "MONDO:0009849",
+  "UNII": [
+   "37CQ2C7X93"
+  ],
+  "CHEMBL": [
+   "CHEMBL1201834"
+  ]
+ },
+ {
+  "gard": 2804,
+  "MONDO": "MONDO:0015691",
+  "UNII": [
+   "8A1O1M485B"
+  ],
+  "CHEMBL": [
+   "CHEMBL1642"
+  ]
+ },
+ {
+  "gard": 2835,
+  "MONDO": "MONDO:0009823",
+  "UNII": [
+   "4Y6R29688W",
+   "330ZY4KI6F"
+  ],
+  "CHEMBL": [
+   null,
+   null
+  ]
+ },
+ {
+  "gard": 2838,
+  "MONDO": "MONDO:0009397",
+  "UNII": [
+   "UAZ6V7728S"
+  ],
+  "CHEMBL": [
+   "CHEMBL1201284"
+  ]
+ },
+ {
+  "gard": 2874,
+  "MONDO": "MONDO:0015900",
+  "UNII": [
+   "17ZS80333G"
+  ],
+  "CHEMBL": [
+   "CHEMBL4297885"
+  ]
+ },
+ {
+  "gard": 3112,
+  "MONDO": "MONDO:0020325",
+  "UNII": [
+   "53AH36668S",
+   "7XL5ISS668"
+  ],
+  "CHEMBL": [
+   "CHEMBL601719",
+   "CHEMBL1742994"
+  ]
+ },
+ {
+  "gard": 3163,
+  "MONDO": "MONDO:0009504",
+  "UNII": [
+   "42932X67B5"
+  ],
+  "CHEMBL": [
+   "CHEMBL306823"
+  ]
+ },
+ {
+  "gard": 3178,
+  "MONDO": "MONDO:0018905",
+  "UNII": [
+   "N54AIC43PW",
+   "1X70OSD4VX",
+   "A8Q8I19Q20",
+   "9HW64Q8G6G",
+   "O43472U9X8",
+   "UC96G28EQF",
+   "A6GWB8T96J",
+   "31TZ62FO8F",
+   "6CX4AEX3KR",
+   "6ZJ8V3Q0H1",
+   "U2H19X4WBV",
+   "614OI1Z5WI",
+   "2X4LQG2T5U"
+  ],
+  "CHEMBL": [
+   "CHEMBL3137309",
+   "CHEMBL1873475",
+   "CHEMBL1201746",
+   "CHEMBL1908360",
+   "CHEMBL1743048",
+   "CHEMBL300138",
+   "CHEMBL272980",
+   "CHEMBL3545185",
+   "CHEMBL3989913",
+   "CHEMBL4594253",
+   "CHEMBL4073443",
+   "CHEMBL109",
+   "CHEMBL3707274"
+  ]
+ },
+ {
+  "gard": 3228,
+  "MONDO": "MONDO:0009563",
+  "UNII": [
+   "NT6K61736T"
+  ],
+  "CHEMBL": [
+   "CHEMBL1746"
+  ]
+ },
+ {
+  "gard": 3284,
+  "MONDO": "MONDO:0008646",
+  "UNII": [
+   "PUY08529FK"
+  ],
+  "CHEMBL": [
+   "CHEMBL3707392"
+  ]
+ },
+ {
+  "gard": 3319,
+  "MONDO": "MONDO:0006277",
+  "UNII": [
+   "W36ZG6FT64"
+  ],
+  "CHEMBL": [
+   "CHEMBL413"
+  ]
+ },
+ {
+  "gard": 3321,
+  "MONDO": "MONDO:0005761",
+  "UNII": [
+   "R8M46911LR"
+  ],
+  "CHEMBL": [
+   "CHEMBL1454946"
+  ]
+ },
+ {
+  "gard": 3413,
+  "MONDO": "MONDO:0016366",
+  "UNII": [
+   "EGX657432I"
+  ],
+  "CHEMBL": [
+   "CHEMBL1201774"
+  ]
+ },
+ {
+  "gard": 3460,
+  "MONDO": "MONDO:0018961",
+  "UNII": [
+   "ER29L26N1X",
+   "995FT1W541",
+   "Q26B92650V",
+   "UG97LO5M8Y",
+   "FQ8NY4LUO5",
+   "QRJ8C05E9C",
+   "06UV5RFW57",
+   "7B590791ER",
+   "A4LY1V9F0H"
+  ],
+  "CHEMBL": [
+   "CHEMBL2146883",
+   "CHEMBL1957038",
+   "CHEMBL573677",
+   "CHEMBL2107787",
+   "CHEMBL217354",
+   null,
+   "CHEMBL4298122",
+   null,
+   "CHEMBL2107855"
+  ]
+ },
+ {
+  "gard": 3553,
+  "MONDO": "MONDO:0009588",
+  "UNII": [
+   "NQX9KB6PCL"
+  ],
+  "CHEMBL": [
+   "CHEMBL1201621"
+  ]
+ },
+ {
+  "gard": 3681,
+  "MONDO": "MONDO:0012791",
+  "UNII": [
+   "VC2W18DGKR"
+  ],
+  "CHEMBL": [
+   "CHEMBL52609"
+  ]
+ },
+ {
+  "gard": 3785,
+  "MONDO": "MONDO:0009659",
+  "UNII": [
+   "7IS9N8KPMG"
+  ],
+  "CHEMBL": [
+   null
+  ]
+ },
+ {
+  "gard": 3863,
+  "MONDO": "MONDO:0009691",
+  "UNII": [
+   "7XL5ISS668",
+   "36B82AMQ7N"
+  ],
+  "CHEMBL": [
+   "CHEMBL1742994",
+   "CHEMBL80"
+  ]
+ },
+ {
+  "gard": 3896,
+  "MONDO": "MONDO:0007827",
+  "UNII": [
+   "EUT3557RT5"
+  ],
+  "CHEMBL": [
+   null
+  ]
+ },
+ {
+  "gard": 3908,
+  "MONDO": "MONDO:0100224",
+  "UNII": [
+   "858M8246UL",
+   "NA2ZOL5UGM"
+  ],
+  "CHEMBL": [
+   null,
+   "CHEMBL4594430"
+  ]
+ },
+ {
+  "gard": 3947,
+  "MONDO": "MONDO:0019010",
+  "UNII": [
+   "5313W10MYT",
+   "76LA80IG2G",
+   "AD4J2O47FQ"
+  ],
+  "CHEMBL": [
+   "CHEMBL4297949",
+   null,
+   "CHEMBL4297741"
+  ]
+ },
+
+ {
+  "gard": 4155,
+  "MONDO": "MONDO:0017198",
+  "UNII": [
+   "21K6M2I7AG"
+  ],
+  "CHEMBL": [
+   "CHEMBL1201564"
+  ]
+ },
+ {
+  "gard": 4191,
+  "MONDO": "MONDO:0008176",
+  "UNII": [
+   "I0IO929019"
+  ],
+  "CHEMBL": [
+   null
+  ]
+ },
+ {
+  "gard": 4380,
+  "MONDO": "MONDO:0009009",
+  "UNII": [
+   "1EF190B6M7"
+  ],
+  "CHEMBL": [
+   "CHEMBL2108131"
+  ]
+ },
+ {
+  "gard": 4386,
+  "MONDO": "MONDO:0019121",
+  "UNII": [
+   "K27F04K3A9"
+  ],
+  "CHEMBL": [
+   "CHEMBL2107359"
+  ]
+ },
+ {
+  "gard": 4446,
+  "MONDO": "MONDO:0009902",
+  "UNII": [
+   "19W019ZDRJ"
+  ],
+  "CHEMBL": [
+   "CHEMBL1413"
+  ]
+ },
+ {
+  "gard": 4457,
+  "MONDO": "MONDO:0006918",
+  "UNII": [
+   "W36ZG6FT64",
+   "CT1IX58L9S"
+  ],
+  "CHEMBL": [
+   "CHEMBL413",
+   "CHEMBL1201390"
+  ]
+ },
+ {
+  "gard": 4484,
+  "MONDO": "MONDO:0016575",
+  "UNII": [
+   "UT0S826Z60"
+  ],
+  "CHEMBL": [
+   "CHEMBL336296"
+  ]
+ },
+ {
+  "gard": 4520,
+  "MONDO": "MONDO:0023122",
+  "UNII": [
+   "BZ114NVM5P"
+  ],
+  "CHEMBL": [
+   "CHEMBL58"
+  ]
+ },
+ {
+  "gard": 4527,
+  "MONDO": "MONDO:0008319",
+  "UNII": [
+   "K848JZ4886"
+  ],
+  "CHEMBL": [
+   "CHEMBL863"
+  ]
+ },
+ {
+  "gard": 4561,
+  "MONDO": "MONDO:0009468",
+  "UNII": [
+   "9P1872D4OL"
+  ],
+  "CHEMBL": [
+   null
+  ]
+ },
+ {
+  "gard": 4569,
+  "MONDO": "MONDO:0008337",
+  "UNII": [
+   "50SG953SK6"
+  ],
+  "CHEMBL": [
+   "CHEMBL105"
+  ]
+ },
+ {
+  "gard": 4607,
+  "MONDO": "MONDO:0019740",
+  "UNII": [
+   "DCG29J773G",
+   "DT0445S65M",
+   "L7CHH2B2J0"
+  ],
+  "CHEMBL": [
+   "CHEMBL4297694",
+   "CHEMBL2108339",
+   "CHEMBL3707226"
+  ]
+ },
+ {
+  "gard": 4647,
+  "MONDO": "MONDO:0019369",
+  "UNII": [
+   "8U27U3RIN4",
+   "IL1N7FSO1U",
+   "L960UP2KRW"
+  ],
+  "CHEMBL": [
+   "CHEMBL55214",
+   null,
+   "CHEMBL1237055"
+  ]
+ },
+ {
+  "gard": 4766,
+  "MONDO": null,
+  "UNII": [
+   "19GBJ60SN5",
+   "3QDE968MKD"
+  ],
+  "CHEMBL": [
+   "CHEMBL190461",
+   null
+  ]
+ },
+ {
+  "gard": 4767,
+  "MONDO": "MONDO:0002546",
+  "UNII": [
+   "E0GG29V0AQ"
+  ],
+  "CHEMBL": [
+   "CHEMBL191482"
+  ]
+ },
+ {
+  "gard": 4878,
+  "MONDO": null,
+  "UNII": [
+   "L5IB4XLY36"
+  ],
+  "CHEMBL": [
+   "CHEMBL2103849"
+  ]
+ },
+ {
+  "gard": 4898,
+  "MONDO": "MONDO:0018078",
+  "UNII": [
+   "TT6HN20MVF",
+   "AV9U0660CW",
+   "LQF7I567TQ",
+   "GKF8S4C432",
+   "6A4U6NN813",
+   "48Z35KB15K",
+   "E90NZP2L9U",
+   "3Z8479ZZ5X",
+   "Q40W93WPE1",
+   "LGP81V5245",
+   "7RN5DR86CK",
+   "31TZ62FO8F",
+   "8A9RZ3HN8W",
+   "UM20QQM95Y",
+   "58784XQC3Y",
+   "82JB1524Q6",
+   "8MSY49469G",
+   "6YX1G1VY8K",
+   "IJ3FUK8MOF",
+   "ID0YZQ2TCP"
+  ],
+  "CHEMBL": [
+   "CHEMBL1743049",
+   "CHEMBL1683544",
+   "CHEMBL2105728",
+   "CHEMBL4303201",
+   "CHEMBL889",
+   "CHEMBL2103839",
+   "CHEMBL254219",
+   "CHEMBL417",
+   "CHEMBL3414621",
+   "CHEMBL788",
+   "CHEMBL477772",
+   "CHEMBL3545185",
+   "CHEMBL260046",
+   "CHEMBL1024",
+   "CHEMBL4650626",
+   "CHEMBL572284",
+   "CHEMBL2037002",
+   null,
+   null,
+   "CHEMBL450449"
+  ]
+ },
+ {
+  "gard": 4912,
+  "MONDO": null,
+  "UNII": [
+   "2ZD004190S"
+  ],
+  "CHEMBL": [
+   "CHEMBL291747"
+  ]
+ },
+ {
+  "gard": 4997,
+  "MONDO": "MONDO:0008259",
+  "UNII": [
+   "G6242H2NAA"
+  ],
+  "CHEMBL": [
+   "CHEMBL2105615"
+  ]
+ },
+ {
+  "gard": 5104,
+  "MONDO": "MONDO:0008919",
+  "UNII": [
+   "0G389FZZ9M"
+  ],
+  "CHEMBL": [
+   "CHEMBL1149"
+  ]
+ },
+ {
+  "gard": 5194,
+  "MONDO": "MONDO:0008558",
+  "UNII": [
+   "7G33012534",
+   "GN5XU2DXKV",
+   "GDW7M2P1IS",
+   "S56D65XJ9G",
+   "71WW2LNL50",
+   "BPD4DGQ314",
+   "P7186074QC",
+   "KX44A9HM0B"
+  ],
+  "CHEMBL": [
+   "CHEMBL1200682",
+   "CHEMBL1201832",
+   "CHEMBL2105758",
+   "CHEMBL461101",
+   null,
+   "CHEMBL1743088",
+   "CHEMBL4297820",
+   "CHEMBL2108747"
+  ]
+ },
+ {
+  "gard": 5201,
+  "MONDO": "MONDO:0018079",
+  "UNII": [
+   "82W826FL6S"
+  ],
+  "CHEMBL": [
+   "CHEMBL4297668"
+  ]
+ },
+ {
+  "gard": 5206,
+  "MONDO": "MONDO:0008566",
+  "UNII": [
+   "YO460OQ37K",
+   "1C39JW444G",
+   "EE083865G2",
+   "4LU13X0I13"
+  ],
+  "CHEMBL": [
+   "CHEMBL24828",
+   "CHEMBL2105717",
+   "CHEMBL1289601",
+   null
+  ]
+ },
+ {
+  "gard": 5274,
+  "MONDO": "MONDO:0011514",
+  "UNII": [
+   "Z9K9Y9WMVL"
+  ],
+  "CHEMBL": [
+   "CHEMBL2103873"
+  ]
+ },
+ {
+  "gard": 5429,
+  "MONDO": "MONDO:0009797",
+  "UNII": [
+   "2WP61F175M"
+  ],
+  "CHEMBL": [
+   "CHEMBL2107381"
+  ]
+ },
+ {
+  "gard": 5474,
+  "MONDO": null,
+  "UNII": [
+   "J4THI5N7O2"
+  ],
+  "CHEMBL": [
+   "CHEMBL2110368"
+  ]
+ },
+ {
+  "gard": 5493,
+  "MONDO": "MONDO:0019960",
+  "UNII": [
+   "RWM8CCW8GP"
+  ],
+  "CHEMBL": [
+   "CHEMBL1680"
+  ]
+ },
+ {
+  "gard": 5494,
+  "MONDO": "MONDO:0018087",
+  "UNII": [
+   "3TTT9ZD93F"
+  ],
+  "CHEMBL": [
+   "CHEMBL4298082"
+  ]
+ },
+ {
+  "gard": 5575,
+  "MONDO": "MONDO:0008300",
+  "UNII": [
+   "49K58SMZ7U",
+   "88TWF8015Y",
+   "2U8NRZ7P8L",
+   "O5CB12L4FN",
+   "T7A20Y888Y",
+   "213MVW2TZD",
+   "N7T15V1FUY",
+   "1JQS135EYN",
+   "FI471K8BU6"
+  ],
+  "CHEMBL": [
+   "CHEMBL1446813",
+   "CHEMBL3301668",
+   "CHEMBL4297276",
+   "CHEMBL181",
+   "CHEMBL1236183",
+   "CHEMBL1230988",
+   "CHEMBL3301624",
+   null,
+   "CHEMBL4297504"
+  ]
+ },
+ {
+  "gard": 5617,
+  "MONDO": "MONDO:0010354",
+  "UNII": [
+   "1HTO2X0SJ9"
+  ],
+  "CHEMBL": [
+   "CHEMBL2348292"
+  ]
+ },
+ {
+  "gard": 5622,
+  "MONDO": "MONDO:0008948",
+  "UNII": [
+   "0GEI24LG0J"
+  ],
+  "CHEMBL": [
+   "CHEMBL240597"
+  ]
+ },
+ {
+  "gard": 5694,
+  "MONDO": "MONDO:0019200",
+  "UNII": [
+   "4N69717RKW",
+   "RR725D715M",
+   "2K3YP54BYU",
+   "BC9KBY85WY",
+   "O65P17785G",
+   "5R3OV3AM5M",
+   "Y8JXJ39EE9",
+   "3T0UGR2M5Q"
+  ],
+  "CHEMBL": [
+   null,
+   "CHEMBL81379",
+   "CHEMBL4297637",
+   null,
+   null,
+   null,
+   null,
+   null
+  ]
+ },
+ {
+  "gard": 5695,
+  "MONDO": "MONDO:0006952",
+  "UNII": [
+   "4L6452S749",
+   "1D1K0N0VVC",
+   "NZ8M50KKRG"
+  ],
+  "CHEMBL": [
+   "CHEMBL1222251",
+   "CHEMBL1675",
+   "CHEMBL1201717"
+  ]
+ },
+ {
+  "gard": 5696,
+  "MONDO": "MONDO:0010726",
+  "UNII": [
+   "6DH1W9VH8Q",
+   "1M49V1PBPL",
+   "467LU0UCUW",
+   "DZ671709NT",
+   "I198VBV98I",
+   "0T493YFU8O"
+  ],
+  "CHEMBL": [
+   "CHEMBL1697733",
+   "CHEMBL4594269",
+   "CHEMBL220808",
+   "CHEMBL2206194",
+   "CHEMBL2387742",
+   "CHEMBL1289110"
+  ]
+ },
+ {
+  "gard": 5698,
+  "MONDO": "MONDO:0006502",
+  "UNII": [
+   "31C4KY9ESH",
+   "F5TD010360",
+   "6J2WVD66KR",
+   "29VT07BGDA"
+  ],
+  "CHEMBL": [
+   "CHEMBL1200689",
+   "CHEMBL495",
+   "CHEMBL1981592",
+   "CHEMBL444814"
+  ]
+ },
+ {
+  "gard": 5714,
+  "MONDO": "MONDO:0009290",
+  "UNII": [
+   "XTZ6AXU7KN",
+   "DTI67O9503",
+   "0RN23C42QR",
+   "B769I4XPY3"
+  ],
+  "CHEMBL": [
+   "CHEMBL49080",
+   "CHEMBL1201824",
+   "CHEMBL460785",
+   null
+  ]
+ },
+ {
+  "gard": 5725,
+  "MONDO": "MONDO:0019933",
+  "UNII": [
+   "N824AOU5XV",
+   "98H1T17066",
+   "75R0U2568I",
+   "RWM8CCW8GP",
+   "9F2286627L",
+   "0G3DE8943Y"
+  ],
+  "CHEMBL": [
+   "CHEMBL1201515",
+   "CHEMBL3349607",
+   null,
+   "CHEMBL1680",
+   null,
+   null
+  ]
+ },
+ {
+  "gard": 5730,
+  "MONDO": "MONDO:0021811",
+  "UNII": [
+   "3K6A6FJ98O"
+  ],
+  "CHEMBL": [
+   "CHEMBL4298118"
+  ]
+ },
+ {
+  "gard": 5742,
+  "MONDO": "MONDO:0005061",
+  "UNII": [
+   ":"
+  ],
+  "CHEMBL": [
+   null
+  ]
+ },
+ {
+  "gard": 5743,
+  "MONDO": "MONDO:0004971",
+  "UNII": [
+   "I35H55G906"
+  ],
+  "CHEMBL": [
+   "CHEMBL522892"
+  ]
+ },
+ {
+  "gard": 5748,
+  "MONDO": "MONDO:0007064",
+  "UNII": [
+   "XPQ5L1L4WO",
+   "HW3H7D91F6"
+  ],
+  "CHEMBL": [
+   null,
+   "CHEMBL1201514"
+  ]
+ },
+ {
+  "gard": 5758,
+  "MONDO": "MONDO:0018544",
+  "UNII": [
+   "60V9STC53F"
+  ],
+  "CHEMBL": [
+   "CHEMBL816"
+  ]
+ },
+ {
+  "gard": 5784,
+  "MONDO": "MONDO:0013282",
+  "UNII": [
+   "F43I396OIS",
+   "S270N0TRQY"
+  ],
+  "CHEMBL": [
+   "CHEMBL4297879",
+   null
+  ]
+ },
+ {
+  "gard": 5785,
+  "MONDO": "MONDO:0010520",
+  "UNII": [
+   "CEG1Q6OGU1"
+  ],
+  "CHEMBL": [
+   "CHEMBL1762621"
+  ]
+ },
+ {
+  "gard": 5786,
+  "MONDO": "MONDO:0004976",
+  "UNII": [
+   "PVI5M0M1GW",
+   "7LJ087RS6F",
+   "2F399MM81J",
+   "ZK89EG3A18",
+   "822Q956KGM",
+   "5Y5F15120W",
+   "G8WSM7R635",
+   "M0TTH61XC5",
+   "C6T4514L4E",
+   "S798V6YJRP",
+   "CVS43XG1L5",
+   "0I8H2M0L7N",
+   "FD57A79R4P",
+   "G538EBV4VF",
+   "LH812IV7LI",
+   "WI638GUS96",
+   "KPKO7W46E8",
+   "451W47IQ8X",
+   "8V32U4AOQU",
+   "BEI7G52Q8Z",
+   "EUT3557RT5",
+   "I4ZSB1Q2DU",
+   "KX44A9HM0B",
+   "QFC21096ON",
+   "W2T4YRA9AD",
+   "A6778U5IFY",
+   "CFS802C28F",
+   "CR102F038W",
+   "PKE82W49V1"
+  ],
+  "CHEMBL": [
+   "CHEMBL1201567",
+   "CHEMBL744",
+   "CHEMBL1794791",
+   null,
+   "CHEMBL248594",
+   "CHEMBL1472",
+   "CHEMBL3039529",
+   "CHEMBL19449",
+   "CHEMBL2051955",
+   null,
+   "CHEMBL61872",
+   "CHEMBL438497",
+   "CHEMBL4594259",
+   "CHEMBL1887585",
+   "CHEMBL416288",
+   "CHEMBL249420",
+   null,
+   "CHEMBL1200574",
+   "CHEMBL364713",
+   null,
+   null,
+   "CHEMBL4297561",
+   "CHEMBL2108747",
+   null,
+   null,
+   null,
+   "CHEMBL1171146",
+   "CHEMBL4298063",
+   "CHEMBL2108545"
+  ]
+ },
+ {
+  "gard": 5797,
+  "MONDO": "MONDO:0019438",
+  "UNII": [
+   "4Z63YK6E0E",
+   "YI3H6V056C"
+  ],
+  "CHEMBL": [
+   "CHEMBL1743007",
+   null
+  ]
+ },
+ {
+  "gard": 5810,
+  "MONDO": "MONDO:0007113",
+  "UNII": [
+   "K1M5RVL18S"
+  ],
+  "CHEMBL": [
+   "CHEMBL312443"
+  ]
+ },
+ {
+  "gard": 5813,
+  "MONDO": "MONDO:0002387",
+  "UNII": [
+   "WJA5UO9E10",
+   "4GY0AVT3L4"
+  ],
+  "CHEMBL": [
+   "CHEMBL4650321",
+   "CHEMBL109480"
+  ]
+ },
+ {
+  "gard": 5816,
+  "MONDO": "MONDO:0019172",
+  "UNII": [
+   "K16AME9I3V"
+  ],
+  "CHEMBL": [
+   "CHEMBL256997"
+  ]
+ },
+ {
+  "gard": 5834,
+  "MONDO": "MONDO:0004845",
+  "UNII": [
+   "4Z8R6ORS6L"
+  ],
+  "CHEMBL": [
+   "CHEMBL468"
+  ]
+ },
+ {
+  "gard": 5836,
+  "MONDO": "MONDO:0012197",
+  "UNII": [
+   "S56D65XJ9G",
+   "213MVW2TZD",
+   "8666ZWZ3E1"
+  ],
+  "CHEMBL": [
+   "CHEMBL461101",
+   "CHEMBL1230988",
+   null
+  ]
+ },
+ {
+  "gard": 5843,
+  "MONDO": "MONDO:0008815",
+  "UNII": [
+   "x"
+  ],
+  "CHEMBL": [
+   null
+  ]
+ },
+ {
+  "gard": 5856,
+  "MONDO": "MONDO:0005657",
+  "UNII": [
+   "31Q44514JV",
+   "7XU7A7DROE"
+  ],
+  "CHEMBL": [
+   "CHEMBL3137333",
+   "CHEMBL267345"
+  ]
+ },
+ {
+  "gard": 5862,
+  "MONDO": "MONDO:0008840",
+  "UNII": [
+   "9842X06Q6M"
+  ],
+  "CHEMBL": [
+   "CHEMBL632"
+  ]
+ },
+ {
+  "gard": 5870,
+  "MONDO": "MONDO:0020108",
+  "UNII": [
+   "8N3DW7272P",
+   "SQ8A3S5101"
+  ],
+  "CHEMBL": [
+   "CHEMBL1200796",
+   "CHEMBL2103830"
+  ]
+ },
+ {
+  "gard": 5871,
+  "MONDO": "MONDO:0016264",
+  "UNII": [
+   "5S6W795CQM",
+   "19GBJ60SN5"
+  ],
+  "CHEMBL": [
+   "CHEMBL19019",
+   "CHEMBL190461"
+  ]
+ },
+ {
+  "gard": 5877,
+  "MONDO": "MONDO:0004095",
+  "UNII": [
+   "1X70OSD4VX",
+   "CX3T89XQBK",
+   "4F4X42SYQ6",
+   "4Q52C550XK",
+   "9679TC07X4",
+   "0343IGH41U",
+   "A802907MI4",
+   "U6E7R9OE4R"
+  ],
+  "CHEMBL": [
+   "CHEMBL1873475",
+   "CHEMBL343448",
+   "CHEMBL1201576",
+   "CHEMBL1201606",
+   "CHEMBL1201225",
+   "CHEMBL1201604",
+   "CHEMBL2108469",
+   null
+  ]
+ },
+ {
+  "gard": 5897,
+  "MONDO": "MONDO:0008767",
+  "UNII": [
+   "B769I4XPY3"
+  ],
+  "CHEMBL": [
+   null
+  ]
+ },
+ {
+  "gard": 5898,
+  "MONDO": "MONDO:0019952",
+  "UNII": [
+   "8SKN0B0MIM"
+  ],
+  "CHEMBL": [
+   "CHEMBL541"
+  ]
+ },
+ {
+  "gard": 5900,
+  "MONDO": "MONDO:0010311",
+  "UNII": [
+   "5P60F84FBH",
+   "BK727F83NO"
+  ],
+  "CHEMBL": [
+   "CHEMBL1213492",
+   null
+  ]
+ },
+ {
+  "gard": 5924,
+  "MONDO": "MONDO:0003060",
+  "UNII": [
+   "5OGS5K699E",
+   "X1840C8161"
+  ],
+  "CHEMBL": [
+   "CHEMBL3545307",
+   null
+  ]
+ },
+ {
+  "gard": 5962,
+  "MONDO": "MONDO:0019091",
+  "UNII": [
+   "1D1K0N0VVC",
+   "909E17P4ZW"
+  ],
+  "CHEMBL": [
+   "CHEMBL1675",
+   null
+  ]
+ },
+ {
+  "gard": 5966,
+  "MONDO": "MONDO:0005683",
+  "UNII": [
+   "37CQ2C7X93",
+   "SML2Y3J35T"
+  ],
+  "CHEMBL": [
+   "CHEMBL1201834",
+   "CHEMBL107"
+  ]
+ },
+ {
+  "gard": 5972,
+  "MONDO": "MONDO:0019082",
+  "UNII": [
+   "60879E4NED",
+   "GNWE7KJ995"
+  ],
+  "CHEMBL": [
+   "CHEMBL2109103",
+   "CHEMBL4297832"
+  ]
+ },
+ {
+  "gard": 5979,
+  "MONDO": "MONDO:0019623",
+  "UNII": [
+   "5Q6TZN2HNM",
+   "7PG89G35Q7",
+   "6KIC4BB60G",
+   "9J556O9JPD",
+   "RB0RV8I60K"
+  ],
+  "CHEMBL": [
+   "CHEMBL1201837",
+   "CHEMBL2028850",
+   "CHEMBL4297549",
+   null,
+   null
+  ]
+ },
+ {
+  "gard": 5980,
+  "MONDO": "MONDO:0017215",
+  "UNII": [
+   "ZBX50UG81V",
+   "HX1032V43M"
+  ],
+  "CHEMBL": [
+   null,
+   "CHEMBL2096650"
+  ]
+ },
+ {
+  "gard": 6034,
+  "MONDO": "MONDO:0015626",
+  "UNII": [
+   "RU4S6E2G0J",
+   "5S6W795CQM"
+  ],
+  "CHEMBL": [
+   "CHEMBL354077",
+   "CHEMBL19019"
+  ]
+ },
+ {
+  "gard": 6039,
+  "MONDO": "MONDO:0010621",
+  "UNII": [
+   "EH28UP18IF",
+   "O414PZ4LPZ",
+   "0J8RN2W0HK",
+   "F0GIZ22IJH",
+   "K0Q29TGV9Y",
+   "07730V90L6"
+  ],
+  "CHEMBL": [
+   "CHEMBL547",
+   "CHEMBL424",
+   "CHEMBL3707313",
+   "CHEMBL4297210",
+   "CHEMBL389433",
+   "CHEMBL2108727"
+  ]
+ },
+ {
+  "gard": 6042,
+  "MONDO": "MONDO:0003210",
+  "UNII": [
+   "995FT1W541",
+   "R5B1HX1HUY",
+   "U6B7J0L31Q"
+  ],
+  "CHEMBL": [
+   "CHEMBL1957038",
+   null,
+   "CHEMBL4298156"
+  ]
+ },
+ {
+  "gard": 6061,
+  "MONDO": "MONDO:0010557",
+  "UNII": [
+   "YA02LE18L3"
+  ],
+  "CHEMBL": [
+   null
+  ]
+ },
+ {
+  "gard": 6102,
+  "MONDO": "MONDO:0007691",
+  "UNII": [
+   "3QN8BYN5QF",
+   "66Y330CJHS",
+   "T32CR1A69R"
+  ],
+  "CHEMBL": [
+   "CHEMBL314854",
+   null,
+   "CHEMBL4594547"
+  ]
+ },
+ {
+  "gard": 6104,
+  "MONDO": "MONDO:0004948",
+  "UNII": [
+   "N54AIC43PW",
+   "1X70OSD4VX",
+   "4FR53SIF3A",
+   "3A189DH42V",
+   "M95KG522R0",
+   "O43472U9X8",
+   "4F4X42SYQ6",
+   "YG57I8T5M0",
+   "1X9VK9O1SC",
+   "U374135N48",
+   "4V8ECV0NBQ",
+   "FU8XW5V3FS",
+   "6SN82Y9U73",
+   "9266D9P3PQ",
+   "981Y8SX18M",
+   "47M74X9YT5",
+   "45AD6X575G",
+   "W8FZ00AY2S",
+   "39200FJ43J",
+   "60158CV180",
+   "53IEF47846",
+   "2NDX4B6N8F",
+   "Y1RAH31T6K",
+   "05FZV98342",
+   "2PP9364507",
+   "8DY2X8LXW4",
+   "IYZ9TI08W3",
+   "LB090AB8DB",
+   "T169OM1T8L",
+   "TZK30RF92W",
+   "U59UGK3IPC",
+   "UT59FF4T5X",
+   "2OP4E0GC6V",
+   "8Z13S29R5A",
+   "BPD4DGQ314",
+   "T432289GYZ"
+  ],
+  "CHEMBL": [
+   "CHEMBL3137309",
+   "CHEMBL1873475",
+   "CHEMBL1742992",
+   "CHEMBL1201587",
+   "CHEMBL1201836",
+   "CHEMBL1743048",
+   "CHEMBL1201576",
+   "CHEMBL2216870",
+   "CHEMBL1096882",
+   null,
+   "CHEMBL2103840",
+   "CHEMBL3989869",
+   "CHEMBL550755",
+   "CHEMBL487253",
+   "CHEMBL1201734",
+   "CHEMBL1619",
+   "CHEMBL428690",
+   "CHEMBL2105690",
+   "CHEMBL2107358",
+   "CHEMBL1201112",
+   "CHEMBL1551724",
+   "CHEMBL1743043",
+   "CHEMBL1716091",
+   "CHEMBL2105107",
+   null,
+   "CHEMBL51483",
+   null,
+   "CHEMBL4594531",
+   null,
+   "CHEMBL2108314",
+   "CHEMBL2108354",
+   "CHEMBL1743005",
+   "CHEMBL1743040",
+   null,
+   "CHEMBL1743088",
+   "CHEMBL1201723"
+  ]
+ },
+ {
+  "gard": 6105,
+  "MONDO": "MONDO:0011996",
+  "UNII": [
+   "RBZ1571X5H",
+   "776B62CQ27",
+   "29EX23D5AJ",
+   "F41401512X",
+   "6FG8041S5B",
+   "BKJ8M8G5HI",
+   "4340891KFS",
+   "47RRR83SK7",
+   "L1F3R18W77",
+   "ULJ82834RE",
+   "ZGL5E40F57",
+   "54XUF2TZ7G",
+   "8W1O4Y961B",
+   "PVH8394DLN"
+  ],
+  "CHEMBL": [
+   null,
+   "CHEMBL1201129",
+   "CHEMBL176045",
+   "CHEMBL255863",
+   "CHEMBL46286",
+   "CHEMBL941",
+   "CHEMBL1171837",
+   "CHEMBL2108508",
+   "CHEMBL4208229",
+   "CHEMBL108358",
+   null,
+   "CHEMBL4297811",
+   "CHEMBL3989978",
+   null
+  ]
+ },
+ {
+  "gard": 6121,
+  "MONDO": "MONDO:0010269",
+  "UNII": [
+   "2S9ZZM9Q9V"
+  ],
+  "CHEMBL": [
+   "CHEMBL1201583"
+  ]
+ },
+ {
+  "gard": 6140,
+  "MONDO": "MONDO:0015517",
+  "UNII": [
+   "9CAS0V66OI"
+  ],
+  "CHEMBL": [
+   "CHEMBL292008"
+  ]
+ },
+ {
+  "gard": 6148,
+  "MONDO": "MONDO:0013144",
+  "UNII": [
+   "AWV6I5L6H2",
+   "T0LTO7L82X",
+   "NU23Q531G1"
+  ],
+  "CHEMBL": [
+   "CHEMBL1201554",
+   "CHEMBL2108574",
+   "CHEMBL2108282"
+  ]
+ },
+ {
+  "gard": 6219,
+  "MONDO": "MONDO:0015474",
+  "UNII": [
+   "SOA12P041N",
+   "S256WJ3OFQ"
+  ],
+  "CHEMBL": [
+   "CHEMBL1401",
+   null
+  ]
+ },
+ {
+  "gard": 6224,
+  "MONDO": "MONDO:0018912",
+  "UNII": [
+   "320T6RNW1F",
+   "98H1T17066",
+   "ZS9KD92H6V",
+   "56X54T817Q",
+   "2158753C7E",
+   "VK9OS8R205",
+   "R7M5UGD04G",
+   "2DJ8R0NT7K"
+  ],
+  "CHEMBL": [
+   "CHEMBL1276308",
+   "CHEMBL3349607",
+   "CHEMBL934",
+   "CHEMBL1201591",
+   "CHEMBL4068611",
+   "CHEMBL46423",
+   "CHEMBL4441355",
+   "CHEMBL295698"
+  ]
+ },
+ {
+  "gard": 6226,
+  "MONDO": "MONDO:0015758",
+  "UNII": [
+   "25E79B5CTM",
+   "A61RXM4375",
+   "7XL5ISS668",
+   "80168379AG",
+   "187EJ7QEXL",
+   "V3DMU7PVXF",
+   "2261HH611H",
+   "37NT056AT4",
+   "7B646RJ70F",
+   "6PJC3KPK6S",
+   "Q6C979R91Y",
+   "U6E7R9OE4R"
+  ],
+  "CHEMBL": [
+   "CHEMBL1201550",
+   "CHEMBL1023",
+   "CHEMBL1742994",
+   "CHEMBL53463",
+   "CHEMBL7301",
+   "CHEMBL383322",
+   "CHEMBL4297584",
+   "CHEMBL3707219",
+   "CHEMBL311300",
+   "CHEMBL549344",
+   "CHEMBL553025",
+   null
+  ]
+ },
+ {
+  "gard": 6233,
+  "MONDO": "MONDO:0009061",
+  "UNII": [
+   "1Y740ILL1Z",
+   "8RW88Y506K",
+   "31C4KY9ESH",
+   "9PTP4FOI9E",
+   "78RRI89ZTO",
+   "UT0S826Z60",
+   "FZJ37245UC",
+   "K16AME9I3V",
+   "5E8K9I0O4U",
+   "IT942ZTH98",
+   "E90NZP2L9U",
+   "BHV525JOBH",
+   "187EJ7QEXL",
+   "PQ6CK8PD0R",
+   "304NUG5GF4",
+   "6GNT3Y5LMF",
+   "EGP8L81APK",
+   "3OWL53L36A",
+   "POD38AIF08",
+   "G2B4VE5GH8",
+   "71WO621TJD",
+   "9G34HU7RV0",
+   "N6M33094FD",
+   "VZ8RRZ51VK",
+   "F43I396OIS",
+   "3LM5SX2N4X",
+   "ECX1L89MFR",
+   "Q0656F336Y",
+   "T2U4ZA62U4",
+   "3P99H114B8",
+   "IL870Q3Z8I",
+   "X8T9SBH9LL",
+   "E0018IF0K4",
+   "82M942WZ4A",
+   "42445HUU0O",
+   "2M3V3B8OEA",
+   "4U3D3YY81M",
+   "B321AL142J",
+   "BPR0F3X56H",
+   "C269C4G2ZQ",
+   "I8LHQ0D645",
+   "JBT6SFF5BV",
+   "Y793W5V55N",
+   "ZZ45AB24CA",
+   "PW7453NX3R",
+   "x",
+   "953A26OA1Y"
+  ],
+  "CHEMBL": [
+   "CHEMBL2010601",
+   "CHEMBL3544914",
+   "CHEMBL1200689",
+   "CHEMBL183",
+   "CHEMBL63507",
+   "CHEMBL336296",
+   "CHEMBL1398126",
+   "CHEMBL256997",
+   "CHEMBL8",
+   "CHEMBL140",
+   "CHEMBL254219",
+   "CHEMBL491571",
+   "CHEMBL7301",
+   "CHEMBL196",
+   "CHEMBL22587",
+   null,
+   "CHEMBL2103870",
+   "CHEMBL689",
+   "CHEMBL181886",
+   "CHEMBL158",
+   "CHEMBL1200628",
+   "CHEMBL858",
+   "CHEMBL4208954",
+   "CHEMBL1747",
+   "CHEMBL4297879",
+   null,
+   null,
+   null,
+   "CHEMBL4297479",
+   "CHEMBL1254452",
+   "CHEMBL2103799",
+   "CHEMBL1767408",
+   "CHEMBL1742420",
+   "CHEMBL1767407",
+   "CHEMBL134561",
+   "CHEMBL2108025",
+   "CHEMBL4297166",
+   "CHEMBL2109134",
+   "CHEMBL2108327",
+   "CHEMBL2108744",
+   "CHEMBL2108026",
+   null,
+   null,
+   "CHEMBL1201657",
+   null,
+   null,
+   "CHEMBL1201431"
+  ]
+ },
+ {
+  "gard": 6236,
+  "MONDO": "MONDO:0016239",
+  "UNII": [
+   "5UX2SD1KE2",
+   "WFH6A9S0V4",
+   "IF1B771SVB",
+   "DZ671709NT"
+  ],
+  "CHEMBL": [
+   "CHEMBL602",
+   null,
+   "CHEMBL1256137",
+   "CHEMBL2206194"
+  ]
+ },
+ {
+  "gard": 6237,
+  "MONDO": "MONDO:0009067",
+  "UNII": [
+   "R80LRA5WTF",
+   "3SCV180C9W",
+   "C5W04GO61S",
+   "1EQV5MLY3D",
+   "3WJQ0SDW1A"
+  ],
+  "CHEMBL": [
+   "CHEMBL80830",
+   "CHEMBL1182",
+   "CHEMBL1314",
+   "CHEMBL239243",
+   null
+  ]
+ },
+ {
+  "gard": 6254,
+  "MONDO": "MONDO:0005502",
+  "UNII": [
+   "GAN16C9B8O",
+   "R3Y2198MRP"
+  ],
+  "CHEMBL": [
+   "CHEMBL1543",
+   "CHEMBL4514089"
+  ]
+ },
+ {
+  "gard": 6263,
+  "MONDO": "MONDO:0016367",
+  "UNII": [
+   "A3ULP0F556",
+   "RR6P8L282I",
+   "OGN7X90BT8",
+   "HX1032V43M"
+  ],
+  "CHEMBL": [
+   "CHEMBL1201828",
+   "CHEMBL2336071",
+   "CHEMBL456341",
+   "CHEMBL2096650"
+  ]
+ },
+ {
+  "gard": 6267,
+  "MONDO": "MONDO:0019100",
+  "UNII": [
+   "A3ULP0F556",
+   "47M74X9YT5",
+   "U59UGK3IPC"
+  ],
+  "CHEMBL": [
+   "CHEMBL1201828",
+   "CHEMBL1619",
+   "CHEMBL2108354"
+  ]
+ },
+ {
+  "gard": 6291,
+  "MONDO": "MONDO:0010679",
+  "UNII": [
+   "779A7KPL0Y",
+   "8SKN0B0MIM",
+   "PTC2969MV1",
+   "HB6PN45W4J",
+   "234248D0HH",
+   "8XP29XMB43",
+   "AF3Z6434KS",
+   "QH6B4V5743",
+   "V24GR4LI3I",
+   "200AW54D93",
+   "6O86C0ZH33",
+   "QJK0WC9NHE",
+   "SA940P2U00",
+   "72YY86EA29",
+   "AIW6036FAS",
+   "KR5YZ6AE4B"
+  ],
+  "CHEMBL": [
+   "CHEMBL224128",
+   "CHEMBL541",
+   null,
+   "CHEMBL252556",
+   "CHEMBL3989868",
+   "CHEMBL2348780",
+   "CHEMBL3786673",
+   "CHEMBL2107802",
+   "CHEMBL2103831",
+   null,
+   null,
+   null,
+   null,
+   null,
+   "CHEMBL2108278",
+   "CHEMBL1201891"
+  ]
+ },
+ {
+  "gard": 6316,
+  "MONDO": "MONDO:0001754",
+  "UNII": [
+   "78RRI89ZTO",
+   "26NAK24LS8",
+   "YB12NQZ1YN"
+  ],
+  "CHEMBL": [
+   "CHEMBL63507",
+   "CHEMBL276832",
+   null
+  ]
+ },
+ {
+  "gard": 6322,
+  "MONDO": "MONDO:0020066",
+  "UNII": [
+   "DRB57K47QC"
+  ],
+  "CHEMBL": [
+   "CHEMBL27810"
+  ]
+ },
+ {
+  "gard": 6359,
+  "MONDO": "MONDO:0006541",
+  "UNII": [
+   "4HU6J11EL5",
+   "XX73205DH5",
+   "EJ27X76M46",
+   "3R504894L9"
+  ],
+  "CHEMBL": [
+   "CHEMBL41286",
+   null,
+   "CHEMBL454801",
+   null
+  ]
+ },
+ {
+  "gard": 6360,
+  "MONDO": "MONDO:0018747",
+  "UNII": [
+   "1MK0TQ597B"
+  ],
+  "CHEMBL": [
+   "CHEMBL3910904"
+  ]
+ },
+ {
+  "gard": 6377,
+  "MONDO": "MONDO:0007571",
+  "UNII": [
+   "S07O44R1ZM",
+   "7L3OLR4M8T",
+   "A5595LHJ2L"
+  ],
+  "CHEMBL": [
+   "CHEMBL294199",
+   "CHEMBL3544912",
+   "CHEMBL3707218"
+  ]
+ },
+ {
+  "gard": 6383,
+  "MONDO": "MONDO:0007576",
+  "UNII": [
+   "31YO63LBSN",
+   "U3P01618RT",
+   "37O2X55Y9E",
+   "DOB7Y3RSX0",
+   "MS1J9720WC"
+  ],
+  "CHEMBL": [
+   "CHEMBL2108738",
+   "CHEMBL185",
+   "CHEMBL449158",
+   "CHEMBL500853",
+   "CHEMBL1743051"
+  ]
+ },
+ {
+  "gard": 6384,
+  "MONDO": "MONDO:0001221",
+  "UNII": [
+   "U4RY8MRX7C",
+   "6E20216Q0L"
+  ],
+  "CHEMBL": [
+   "CHEMBL3989529",
+   null
+  ]
+ },
+ {
+  "gard": 6390,
+  "MONDO": "MONDO:0012817",
+  "UNII": [
+   "CK1441RCZ8"
+  ],
+  "CHEMBL": [
+   "CHEMBL1743024"
+  ]
+ },
+ {
+  "gard": 6400,
+  "MONDO": "MONDO:0010526",
+  "UNII": [
+   "ADN3S497AZ",
+   "GVS3YDM418"
+  ],
+  "CHEMBL": [
+   "CHEMBL1029",
+   "CHEMBL1086997"
+  ]
+ },
+ {
+  "gard": 6405,
+  "MONDO": null,
+  "UNII": [
+   "AC71R787OV"
+  ],
+  "CHEMBL": [
+   "CHEMBL4297869"
+  ]
+ },
+ {
+  "gard": 6408,
+  "MONDO": "MONDO:0021055",
+  "UNII": [
+   "ZQN1G5V6SR",
+   "6B9991FLU3",
+   "184SNS8VUH",
+   "AAN7QOV9EA"
+  ],
+  "CHEMBL": [
+   "CHEMBL830",
+   "CHEMBL1201303",
+   "CHEMBL15770",
+   "CHEMBL460026"
+  ]
+ },
+ {
+  "gard": 6422,
+  "MONDO": "MONDO:0000995",
+  "UNII": [
+   "VVJ6673MHY"
+  ],
+  "CHEMBL": [
+   "CHEMBL17"
+  ]
+ },
+ {
+  "gard": 6428,
+  "MONDO": "MONDO:0004668",
+  "UNII": [
+   "4784C8E03O"
+  ],
+  "CHEMBL": [
+   "CHEMBL1086440"
+  ]
+ },
+ {
+  "gard": 6445,
+  "MONDO": "MONDO:0007606",
+  "UNII": [
+   "28K6I5M16G",
+   "0PD95Q5DD1"
+  ],
+  "CHEMBL": [
+   "CHEMBL2105648",
+   null
+  ]
+ },
+ {
+  "gard": 6464,
+  "MONDO": "MONDO:0010383",
+  "UNII": [
+   "K1M5RVL18S",
+   "GT0I9SV4F6",
+   "18X2C0C12Z",
+   "3110E3AO8S",
+   "J57O328W4W",
+   "98WI44OHIQ",
+   "19GBJ60SN5",
+   "N4K14YGM3J",
+   "6DH1W9VH8Q",
+   "EJQ7M98H5J",
+   "I198VBV98I",
+   "614OI1Z5WI",
+   "37O2X55Y9E",
+   "46P8AHZ243"
+  ],
+  "CHEMBL": [
+   "CHEMBL312443",
+   "CHEMBL3087515",
+   null,
+   "CHEMBL3301626",
+   "CHEMBL266510",
+   "CHEMBL1568698",
+   "CHEMBL190461",
+   "CHEMBL1201293",
+   "CHEMBL1697733",
+   null,
+   "CHEMBL2387742",
+   "CHEMBL109",
+   "CHEMBL449158",
+   null
+  ]
+ },
+ {
+  "gard": 6467,
+  "MONDO": "MONDO:0007753",
+  "UNII": [
+   "V92SO9WP2I"
+  ],
+  "CHEMBL": [
+   null
+  ]
+ },
+ {
+  "gard": 6468,
+  "MONDO": "MONDO:0009245",
+  "UNII": [
+   "6ON9RK82AL",
+   "G69Z98951Q",
+   "FO2303MNI2",
+   "2BTY8KH53L",
+   "HB6PN45W4J",
+   "24B102R86P",
+   "EJ27X76M46",
+   "B769I4XPY3",
+   "P050J5FWC5"
+  ],
+  "CHEMBL": [
+   "CHEMBL2107832",
+   "CHEMBL4303525",
+   "CHEMBL2107333",
+   "CHEMBL70927",
+   "CHEMBL252556",
+   null,
+   "CHEMBL454801",
+   null,
+   null
+  ]
+ },
+ {
+  "gard": 6498,
+  "MONDO": "MONDO:0018944",
+  "UNII": [
+   "9679TC07X4"
+  ],
+  "CHEMBL": [
+   "CHEMBL1201225"
+  ]
+ },
+ {
+  "gard": 6513,
+  "MONDO": "MONDO:0021042",
+  "UNII": [
+   "2S9ZZM9Q9V",
+   "319R5C7293",
+   "4EDF46E4GI",
+   "MC4B01024K",
+   "GBW044919E",
+   "82F2G7BL4E",
+   "ZQN1G5V6SR",
+   "Q2PCN8MAM6",
+   "9Y8NXQ24VQ",
+   "CVS43XG1L5",
+   "YF1K15M17Y",
+   "19GBJ60SN5",
+   "NT6K61736T",
+   "956S425ZCY",
+   "0F35AOI227",
+   "16VY3TM7ZO",
+   "355G9R500Y",
+   "703P9YDP7F",
+   "789Q85GA8P",
+   "954ZFH0S16",
+   "BHB013S3MO",
+   "FG4454219O",
+   "K6W49JL148",
+   "KD33TF3UJR",
+   "LB2951OCS5",
+   "38R1Q0L1ZE",
+   "S40C40DA21",
+   "x",
+   "06UV5RFW57",
+   "6NS400BXKH",
+   "798536Z7S0",
+   "7B590791ER",
+   "FZJ641678T",
+   "H3598Y1TLJ",
+   "H4QZU9L323",
+   "S9178G4B3F",
+   "Z6Q90D1G53",
+   "ZL04JX89M7"
+  ],
+  "CHEMBL": [
+   "CHEMBL1201583",
+   "CHEMBL444711",
+   "CHEMBL429876",
+   "CHEMBL2146086",
+   "CHEMBL2105643",
+   "CHEMBL359744",
+   "CHEMBL830",
+   "CHEMBL3989958",
+   "CHEMBL27",
+   "CHEMBL61872",
+   "CHEMBL810",
+   "CHEMBL190461",
+   "CHEMBL1746",
+   "CHEMBL1607",
+   "CHEMBL283120",
+   "CHEMBL1980825",
+   "CHEMBL289559",
+   "CHEMBL371405",
+   "CHEMBL4279047",
+   null,
+   "CHEMBL166937",
+   null,
+   null,
+   null,
+   "CHEMBL3297898",
+   "CHEMBL254468",
+   "CHEMBL2108531",
+   null,
+   "CHEMBL4298122",
+   "CHEMBL2108359",
+   null,
+   null,
+   null,
+   "CHEMBL2108060",
+   null,
+   null,
+   "CHEMBL2108045",
+   "CHEMBL2108583"
+  ]
+ },
+ {
+  "gard": 6514,
+  "MONDO": "MONDO:0016683",
+  "UNII": [
+   "9U35A31JAI",
+   "VC2W18DGKR",
+   "YPH994Y0RF",
+   "7BA3X03948"
+  ],
+  "CHEMBL": [
+   "CHEMBL4297310",
+   "CHEMBL52609",
+   "CHEMBL550961",
+   "CHEMBL2103796"
+  ]
+ },
+ {
+  "gard": 6517,
+  "MONDO": "MONDO:0005363",
+  "UNII": [
+   "9242RO5URM",
+   "X39CM70JTQ",
+   "375142VBIA"
+  ],
+  "CHEMBL": [
+   "CHEMBL539423",
+   "CHEMBL4650229",
+   "CHEMBL1743022"
+  ]
+ },
+ {
+  "gard": 6544,
+  "MONDO": "MONDO:0020546",
+  "UNII": [
+   "CUJ2MVI71Y",
+   "83HN0GTJ6D",
+   "6KIC4BB60G",
+   "F43I396OIS",
+   "615637S5PE",
+   "UVJ7NL8S2P",
+   "TCR92293RC"
+  ],
+  "CHEMBL": [
+   "CHEMBL1201605",
+   "CHEMBL160",
+   "CHEMBL4297549",
+   "CHEMBL4297879",
+   "CHEMBL4297861",
+   "CHEMBL4297981",
+   "CHEMBL2109193"
+  ]
+ },
+ {
+  "gard": 6552,
+  "MONDO": null,
+  "UNII": [
+   "NQX9KB6PCL",
+   "00IBG87IQW",
+   "4H7N4I6X6A",
+   "R90JB6QJ2B",
+   "E6GNX3HHTE",
+   "R4AVR27MM8",
+   "4UR7N9Z9MM",
+   "7A055A9QRR",
+   "P050J5FWC5"
+  ],
+  "CHEMBL": [
+   "CHEMBL1201621",
+   "CHEMBL1201490",
+   "CHEMBL105462",
+   "CHEMBL2105872",
+   "CHEMBL844",
+   null,
+   "CHEMBL2108862",
+   "CHEMBL2108651",
+   null
+  ]
+ },
+ {
+  "gard": 6554,
+  "MONDO": "MONDO:0016218",
+  "UNII": [
+   "BH3B64OKL9",
+   "66Y330CJHS"
+  ],
+  "CHEMBL": [
+   "CHEMBL284348",
+   null
+  ]
+ },
+ {
+  "gard": 6559,
+  "MONDO": "MONDO:0008218",
+  "UNII": [
+   "QW68W3J66U"
+  ],
+  "CHEMBL": [
+   "CHEMBL441738"
+  ]
+ },
+ {
+  "gard": 6560,
+  "MONDO": "MONDO:0018935",
+  "UNII": [
+   "4FR53SIF3A",
+   "47M74X9YT5"
+  ],
+  "CHEMBL": [
+   "CHEMBL1742992",
+   "CHEMBL1619"
+  ]
+ },
+ {
+  "gard": 6564,
+  "MONDO": "MONDO:0009319",
+  "UNII": [
+   "OS7097575K"
+  ],
+  "CHEMBL": [
+   "CHEMBL4297615"
+  ]
+ },
+ {
+  "gard": 6577,
+  "MONDO": "MONDO:0023305",
+  "UNII": [
+   "J06Y7MXW4D"
+  ],
+  "CHEMBL": [
+   "CHEMBL556"
+  ]
+ },
+ {
+  "gard": 6578,
+  "MONDO": "MONDO:0004664",
+  "UNII": [
+   "3TK3LQP1N7"
+  ],
+  "CHEMBL": [
+   null
+  ]
+ },
+ {
+  "gard": 6588,
+  "MONDO": "MONDO:0001549",
+  "UNII": [
+   "A3ULP0F556",
+   "C3VX249T6L"
+  ],
+  "CHEMBL": [
+   "CHEMBL1201828",
+   "CHEMBL3989986"
+  ]
+ },
+ {
+  "gard": 6591,
+  "MONDO": "MONDO:0010602",
+  "UNII": [
+   "XB13HYU18U",
+   "7PCM518YLR",
+   "CS849DUN3M",
+   "P89DR4NY54",
+   "T34SH2H9HI",
+   "68603V9EAF",
+   "YA02LE18L3",
+   "15FH07392N",
+   "AC71R787OV",
+   "T0LTO7L82X"
+  ],
+  "CHEMBL": [
+   null,
+   "CHEMBL4297945",
+   "CHEMBL4297953",
+   "CHEMBL4297873",
+   "CHEMBL4297609",
+   "CHEMBL4297730",
+   null,
+   null,
+   "CHEMBL4297869",
+   "CHEMBL2108574"
+  ]
+ },
+ {
+  "gard": 6592,
+  "MONDO": "MONDO:0043240",
+  "UNII": [
+   "0QTW8Z7MCR"
+  ],
+  "CHEMBL": [
+   "CHEMBL122"
+  ]
+ },
+ {
+  "gard": 6594,
+  "MONDO": "MONDO:0005029",
+  "UNII": [
+   "K9X45X0051",
+   "43K1W2T1M6"
+  ],
+  "CHEMBL": [
+   "CHEMBL760",
+   "CHEMBL1201558"
+  ]
+ },
+ {
+  "gard": 6610,
+  "MONDO": "MONDO:0001382",
+  "UNII": [
+   "7Z5X49W53P"
+  ],
+  "CHEMBL": [
+   null
+  ]
+ },
+ {
+  "gard": 6626,
+  "MONDO": "MONDO:0019180",
+  "UNII": [
+   "2S9ZZM9Q9V"
+  ],
+  "CHEMBL": [
+   "CHEMBL1201583"
+  ]
+ },
+ {
+  "gard": 6649,
+  "MONDO": "MONDO:0012521",
+  "UNII": [
+   "X4HES1O11F"
+  ],
+  "CHEMBL": [
+   "CHEMBL184"
+  ]
+ },
+ {
+  "gard": 6675,
+  "MONDO": "MONDO:0010674",
+  "UNII": [
+   "J41CSQ7QDS",
+   "5GCF8EPY6R",
+   "5W8JGG2651"
+  ],
+  "CHEMBL": [
+   "CHEMBL1201279",
+   "CHEMBL4297988",
+   "CHEMBL1201826"
+  ]
+ },
+ {
+  "gard": 6677,
+  "MONDO": "MONDO:0007739",
+  "UNII": [
+   "Z9O08YRN8O",
+   "MM6384NG73",
+   "OD9237K1Z6",
+   "4H914M0CSP",
+   "L19ECD5014",
+   "G07GZ97H65",
+   "6GC8A4PAYH",
+   "5UX2SD1KE2",
+   "24Z79C941B",
+   "531B661QBY",
+   "5Z6E9K79YV",
+   "EJ27X76M46"
+  ],
+  "CHEMBL": [
+   "CHEMBL519344",
+   "CHEMBL499915",
+   "CHEMBL589390",
+   "CHEMBL2103814",
+   "CHEMBL420311",
+   "CHEMBL104",
+   "CHEMBL2095209",
+   "CHEMBL602",
+   null,
+   null,
+   "CHEMBL2103738",
+   "CHEMBL454801"
+  ]
+ },
+ {
+  "gard": 6704,
+  "MONDO": "MONDO:0007762",
+  "UNII": [
+   "Q70OH404HR"
+  ],
+  "CHEMBL": [
+   "CHEMBL2105804"
+  ]
+ },
+ {
+  "gard": 6733,
+  "MONDO": "MONDO:0001220",
+  "UNII": [
+   "N19A0T0E5J",
+   "10T9CSU89I"
+  ],
+  "CHEMBL": [
+   "CHEMBL2108078",
+   null
+  ]
+ },
+ {
+  "gard": 6734,
+  "MONDO": "MONDO:0018570",
+  "UNII": [
+   "Z633861EIM"
+  ],
+  "CHEMBL": [
+   "CHEMBL2108311"
+  ]
+ },
+ {
+  "gard": 6763,
+  "MONDO": "MONDO:0008346",
+  "UNII": [
+   "AC71R787OV"
+  ],
+  "CHEMBL": [
+   "CHEMBL4297869"
+  ]
+ },
+ {
+  "gard": 6768,
+  "MONDO": "MONDO:0002048",
+  "UNII": [
+   "GNWE7KJ995",
+   "S134V96RPQ"
+  ],
+  "CHEMBL": [
+   "CHEMBL4297832",
+   "CHEMBL2107859"
+  ]
+ },
+ {
+  "gard": 6779,
+  "MONDO": "MONDO:0019092",
+  "UNII": [
+   "3G6A5W338E"
+  ],
+  "CHEMBL": [
+   "CHEMBL113"
+  ]
+ },
+ {
+  "gard": 6797,
+  "MONDO": "MONDO:0019209",
+  "UNII": [
+   "2V2JJ0S00T",
+   "DZ854I04ZE"
+  ],
+  "CHEMBL": [
+   null,
+   null
+  ]
+ },
+ {
+  "gard": 6810,
+  "MONDO": "MONDO:0016512",
+  "UNII": [
+   "N9N6RK0CBN"
+  ],
+  "CHEMBL": [
+   "CHEMBL3775474"
+  ]
+ },
+ {
+  "gard": 6814,
+  "MONDO": "MONDO:0005055",
+  "UNII": [
+   "4Z8R6ORS6L",
+   "1UA8E65KDZ",
+   "P88XT4IS4D",
+   "71IA9S35AJ",
+   "43K1W2T1M6",
+   "47RRR83SK7",
+   "HFL33E395I"
+  ],
+  "CHEMBL": [
+   "CHEMBL468",
+   "CHEMBL705",
+   "CHEMBL428647",
+   "CHEMBL276711",
+   "CHEMBL1201558",
+   "CHEMBL2108508",
+   null
+  ]
+ },
+ {
+  "gard": 6824,
+  "MONDO": "MONDO:0015486",
+  "UNII": [
+   "TLM2976OFR",
+   "LRX7AJ16DT"
+  ],
+  "CHEMBL": [
+   "CHEMBL1534",
+   null
+  ]
+ },
+ {
+  "gard": 6844,
+  "MONDO": "MONDO:0009499",
+  "UNII": [
+   "M0TTH61XC5"
+  ],
+  "CHEMBL": [
+   "CHEMBL19449"
+  ]
+ },
+ {
+  "gard": 6851,
+  "MONDO": "MONDO:0018556",
+  "UNII": [
+   "RU4S6E2G0J",
+   "6K2W7T9V6Y"
+  ],
+  "CHEMBL": [
+   "CHEMBL354077",
+   null
+  ]
+ },
+ {
+  "gard": 6859,
+  "MONDO": "MONDO:0009877",
+  "UNII": [
+   "7GR9I2683O",
+   "NZ8M50KKRG"
+  ],
+  "CHEMBL": [
+   "CHEMBL1201716",
+   "CHEMBL1201717"
+  ]
+ },
+ {
+  "gard": 6870,
+  "MONDO": "MONDO:0010788",
+  "UNII": [
+   "HB6PN45W4J"
+  ],
+  "CHEMBL": [
+   "CHEMBL252556"
+  ]
+ },
+ {
+  "gard": 6881,
+  "MONDO": "MONDO:0011989",
+  "UNII": [
+   "53EY29W7EC",
+   "61JJC8N5ZK",
+   "V083S0159D",
+   "Z46GXL23LX",
+   "WZS8452SEC",
+   "L26BTK4791",
+   "7XU7A7DROE"
+  ],
+  "CHEMBL": [
+   "CHEMBL125",
+   "CHEMBL370143",
+   null,
+   "CHEMBL466042",
+   "CHEMBL1688966",
+   null,
+   "CHEMBL267345"
+  ]
+ },
+ {
+  "gard": 6886,
+  "MONDO": "MONDO:0005124",
+  "UNII": [
+   "4Z8R6ORS6L",
+   "D959AE5USF"
+  ],
+  "CHEMBL": [
+   "CHEMBL468",
+   "CHEMBL1292"
+  ]
+ },
+ {
+  "gard": 6895,
+  "MONDO": "MONDO:0019046",
+  "UNII": [
+   "XQ31741E9Q",
+   "I0IDQ0M20R",
+   "K824X25AYA"
+  ],
+  "CHEMBL": [
+   "CHEMBL107400",
+   "CHEMBL4297655",
+   "CHEMBL1267"
+  ]
+ },
+ {
+  "gard": 6907,
+  "MONDO": "MONDO:0016971",
+  "UNII": [
+   "IJ3FUK8MOF"
+  ],
+  "CHEMBL": [
+   null
+  ]
+ },
+ {
+  "gard": 6961,
+  "MONDO": "MONDO:0005136",
+  "UNII": [
+   "K27F04K3A9",
+   "42932X67B5",
+   "60W3249T9M",
+   "4K7VT5621X",
+   "796LMW5BUZ",
+   "PXW0Q9H3IJ",
+   "YRZ676PGU6",
+   "Z7Q4FWA04P",
+   "5T2U51A0MW",
+   "KF7Z0E0Q2B",
+   "Q2OS4303HZ",
+   "R3ZA37PM4S",
+   "5Y9L3636O3"
+  ],
+  "CHEMBL": [
+   "CHEMBL2107359",
+   "CHEMBL306823",
+   "CHEMBL361497",
+   "CHEMBL144037",
+   "CHEMBL516268",
+   null,
+   null,
+   "CHEMBL1082723",
+   "CHEMBL4297927",
+   "CHEMBL2359966",
+   "CHEMBL1107",
+   null,
+   "CHEMBL1606"
+  ]
+ },
+ {
+  "gard": 6964,
+  "MONDO": null,
+  "UNII": [
+   "287M0347EV"
+  ],
+  "CHEMBL": [
+   null
+  ]
+ },
+ {
+  "gard": 6968,
+  "MONDO": "MONDO:0009561",
+  "UNII": [
+   "M91TG242P2"
+  ],
+  "CHEMBL": [
+   "CHEMBL4298010"
+  ]
+ },
+ {
+  "gard": 6969,
+  "MONDO": "MONDO:0018876",
+  "UNII": [
+   "1X70OSD4VX",
+   "4Z63YK6E0E",
+   "F0P408N6V4",
+   "69G8BD63PP",
+   "9U35A31JAI"
+  ],
+  "CHEMBL": [
+   "CHEMBL1873475",
+   "CHEMBL1743007",
+   "CHEMBL848",
+   "CHEMBL325041",
+   "CHEMBL4297310"
+  ]
+ },
+ {
+  "gard": 6975,
+  "MONDO": "MONDO:0007947",
+  "UNII": [
+   "JMS50MPO89"
+  ],
+  "CHEMBL": [
+   "CHEMBL191"
+  ]
+ },
+ {
+  "gard": 6987,
+  "MONDO": "MONDO:0007950",
+  "UNII": [
+   "8A1O1M485B",
+   "ID912S5VON",
+   "M59NC4E26P",
+   "Q2WXR1I0PK",
+   "X49220T18G"
+  ],
+  "CHEMBL": [
+   "CHEMBL1642",
+   "CHEMBL608533",
+   "CHEMBL1908391",
+   "CHEMBL74",
+   "CHEMBL534"
+  ]
+ },
+ {
+  "gard": 7004,
+  "MONDO": "MONDO:0015277",
+  "UNII": [
+   "9ZOQ3TZI87"
+  ],
+  "CHEMBL": [
+   "CHEMBL1336"
+  ]
+ },
+ {
+  "gard": 7005,
+  "MONDO": "MONDO:0007959",
+  "UNII": [
+   "4S465RYF7M",
+   "0RLU3VTK5M",
+   "ED857BWP29"
+  ],
+  "CHEMBL": [
+   "CHEMBL3137322",
+   "CHEMBL2105737",
+   "CHEMBL1770614"
+  ]
+ },
+ {
+  "gard": 7009,
+  "MONDO": "MONDO:0010789",
+  "UNII": [
+   "HB6PN45W4J"
+  ],
+  "CHEMBL": [
+   "CHEMBL252556"
+  ]
+ },
+ {
+  "gard": 7015,
+  "MONDO": "MONDO:0016642",
+  "UNII": [
+   "E0GG29V0AQ"
+  ],
+  "CHEMBL": [
+   "CHEMBL191482"
+  ]
+ },
+ {
+  "gard": 7026,
+  "MONDO": "MONDO:0006292",
+  "UNII": [
+   "2PKU919BA9",
+   "58IFB293JI",
+   "G6HRD2P839",
+   "K75ZUN743Q",
+   "Q40W93WPE1",
+   "0627D8VG1C",
+   "0B7PYQ9YRT",
+   "6YX1G1VY8K",
+   "6HP0354G04",
+   "J27WDC343N",
+   "QEN1X95CIX"
+  ],
+  "CHEMBL": [
+   "CHEMBL2360464",
+   "CHEMBL98",
+   "CHEMBL502835",
+   "CHEMBL320775",
+   "CHEMBL3414621",
+   "CHEMBL3278060",
+   "CHEMBL3137346",
+   null,
+   "CHEMBL1742984",
+   null,
+   "CHEMBL2108658"
+  ]
+ },
+ {
+  "gard": 7058,
+  "MONDO": "MONDO:0019562",
+  "UNII": [
+   "ASU841TV0X",
+   "3N988KP8HD"
+  ],
+  "CHEMBL": [
+   "CHEMBL3039523",
+   "CHEMBL2108346"
+  ]
+ },
+ {
+  "gard": 7064,
+  "MONDO": "MONDO:0016820",
+  "UNII": [
+   "5EKN6H63OA"
+  ],
+  "CHEMBL": [
+   null
+  ]
+ },
+ {
+  "gard": 7065,
+  "MONDO": "MONDO:0019249",
+  "UNII": [
+   "J41CSQ7QDS",
+   "FIK1414ZI8",
+   "WP58SVM6R4",
+   "5W8JGG2651",
+   "ODJ69JZG85"
+  ],
+  "CHEMBL": [
+   "CHEMBL1201279",
+   "CHEMBL2107763",
+   "CHEMBL1201595",
+   "CHEMBL1201826",
+   "CHEMBL2108676"
+  ]
+ },
+ {
+  "gard": 7071,
+  "MONDO": "MONDO:0009655",
+  "UNII": [
+   "4CH8636GFF"
+  ],
+  "CHEMBL": [
+   null
+  ]
+ },
+ {
+  "gard": 7072,
+  "MONDO": "MONDO:0009656",
+  "UNII": [
+   "AA60A4ST8X"
+  ],
+  "CHEMBL": [
+   null
+  ]
+ },
+ {
+  "gard": 7095,
+  "MONDO": "MONDO:0009661",
+  "UNII": [
+   "59UA429E5G"
+  ],
+  "CHEMBL": [
+   "CHEMBL1201822"
+  ]
+ },
+ {
+  "gard": 7108,
+  "MONDO": "MONDO:0009693",
+  "UNII": [
+   "N54AIC43PW",
+   "1X70OSD4VX",
+   "4Z8R6ORS6L",
+   "D2UX06XLB5",
+   "F0P408N6V4",
+   "64FS3BFH5W",
+   "58IFB293JI",
+   "T4H8FMA7IM",
+   "69G8BD63PP",
+   "72X6E3J5AR",
+   "46CWK97Z3K",
+   "1351PE5UGS",
+   "2421HMY9N6",
+   "756U07KN1R",
+   "MZ37792Y8J",
+   "591IV6UL6J",
+   "6TNS415Y3P",
+   "9266D9P3PQ",
+   "Q41OR9510P",
+   "82F2G7BL4E",
+   "8F63U28T2V",
+   "8A49OSO368",
+   "W8FZ00AY2S",
+   "9647FM7Y3Z",
+   "2GWV496552",
+   "MAT637500A",
+   "53IEF47846",
+   "7S5I7G3JQL",
+   "I35H55G906",
+   "3412470A0V",
+   "69451KN1RO",
+   "703P9YDP7F",
+   "80P1Q21652",
+   "F5I3T42BXC",
+   "K6067N5M6N",
+   "QK4ZBS4FPO",
+   "8VH13L5K20",
+   "12R66419FZ",
+   "1J0593208B",
+   "2OP4E0GC6V",
+   "4GY0AVT3L4",
+   "90DHW5TM9S",
+   "G7407IV2FS",
+   "LUE8BK8H5Q",
+   "UT59FF4T5X",
+   "PK6VHJAIBD",
+   "PQP8VH3MJW"
+  ],
+  "CHEMBL": [
+   "CHEMBL3137309",
+   "CHEMBL1873475",
+   "CHEMBL468",
+   "CHEMBL43452",
+   "CHEMBL848",
+   null,
+   "CHEMBL98",
+   "CHEMBL1743070",
+   "CHEMBL325041",
+   "CHEMBL451887",
+   "CHEMBL3545432",
+   "CHEMBL1743010",
+   "CHEMBL331237",
+   "CHEMBL2107784",
+   "CHEMBL2103884",
+   "CHEMBL3747513",
+   "CHEMBL2431768",
+   "CHEMBL487253",
+   "CHEMBL852",
+   "CHEMBL359744",
+   "CHEMBL146428",
+   "CHEMBL2347655",
+   "CHEMBL2105690",
+   "CHEMBL483254",
+   "CHEMBL372764",
+   "CHEMBL289228",
+   "CHEMBL1551724",
+   "CHEMBL384467",
+   "CHEMBL522892",
+   "CHEMBL4297403",
+   "CHEMBL508651",
+   "CHEMBL371405",
+   "CHEMBL455983",
+   null,
+   "CHEMBL4441423",
+   null,
+   "CHEMBL4296683",
+   "CHEMBL3833386",
+   "CHEMBL4630621",
+   "CHEMBL1743040",
+   "CHEMBL109480",
+   null,
+   null,
+   null,
+   "CHEMBL1743005",
+   null,
+   "CHEMBL1743075"
+  ]
+ },
+ {
+  "gard": 7122,
+  "MONDO": "MONDO:0009688",
+  "UNII": [
+   "8HF8FIN815",
+   "N9YNS0M02X",
+   "98IMH7M386",
+   "4TT3V55XYT"
+  ],
+  "CHEMBL": [
+   "CHEMBL3301611",
+   "CHEMBL667",
+   "CHEMBL211471",
+   null
+  ]
+ },
+ {
+  "gard": 7123,
+  "MONDO": null,
+  "UNII": [
+   "67P4WI780Z",
+   "1W306TDA6S"
+  ],
+  "CHEMBL": [
+   null,
+   "CHEMBL444633"
+  ]
+ },
+ {
+  "gard": 7132,
+  "MONDO": "MONDO:0018881",
+  "UNII": [
+   "8A1O1M485B",
+   "F0P408N6V4",
+   "M801H13NRU",
+   "776B62CQ27",
+   "67DOW7F9GL",
+   "E76113IR49",
+   "187EJ7QEXL"
+  ],
+  "CHEMBL": [
+   "CHEMBL1642",
+   "CHEMBL848",
+   "CHEMBL1489",
+   "CHEMBL1201129",
+   "CHEMBL1241855",
+   "CHEMBL3186849",
+   "CHEMBL7301"
+  ]
+ },
+ {
+  "gard": 7142,
+  "MONDO": "MONDO:0016022",
+  "UNII": [
+   "9100L32L2N"
+  ],
+  "CHEMBL": [
+   "CHEMBL1431"
+  ]
+ },
+ {
+  "gard": 7158,
+  "MONDO": "MONDO:0009377",
+  "UNII": [
+   "5L0HB4V1EW"
+  ],
+  "CHEMBL": [
+   "CHEMBL1201780"
+  ]
+ },
+ {
+  "gard": 7162,
+  "MONDO": "MONDO:0016158",
+  "UNII": [
+   "7G33012534",
+   "R3UK8X3U3D",
+   "WM5Z385K7T",
+   "K94FTS1806",
+   "30IW36W5B2",
+   "C56709M5NH",
+   "1QMD83K4YN"
+  ],
+  "CHEMBL": [
+   "CHEMBL1200682",
+   "CHEMBL1373",
+   "CHEMBL116943",
+   "CHEMBL652",
+   "CHEMBL1342",
+   "CHEMBL781",
+   "CHEMBL4650341"
+  ]
+ },
+ {
+  "gard": 7163,
+  "MONDO": "MONDO:0008067",
+  "UNII": [
+   "237TB781D9",
+   "3WH6OPR0RH"
+  ],
+  "CHEMBL": [
+   null,
+   null
+  ]
+ },
+ {
+  "gard": 7166,
+  "MONDO": "MONDO:0007187",
+  "UNII": [
+   "JT96FPU35X",
+   "P050J5FWC5"
+  ],
+  "CHEMBL": [
+   "CHEMBL538867",
+   null
+  ]
+ },
+ {
+  "gard": 7173,
+  "MONDO": "MONDO:0017381",
+  "UNII": [
+   "LTM5S02010"
+  ],
+  "CHEMBL": [
+   "CHEMBL146673"
+  ]
+ },
+ {
+  "gard": 7182,
+  "MONDO": "MONDO:0009735",
+  "UNII": [
+   "BDQ30W2KTS"
+  ],
+  "CHEMBL": [
+   null
+  ]
+ },
+ {
+  "gard": 7185,
+  "MONDO": "MONDO:0005072",
+  "UNII": [
+   "8OBZ1M4V3V",
+   "ZQN1G5V6SR",
+   "L5ORF0AN1I",
+   "187EJ7QEXL",
+   "2GWV496552",
+   "5EKN6H63OA",
+   "ND1SOF0DLU",
+   "X1840C8161",
+   "P2TH1XYZ84",
+   "3GFS72WN4M",
+   "B6PMV8U3C4",
+   "WC4978T687",
+   "7SQY4ZUD30"
+  ],
+  "CHEMBL": [
+   "CHEMBL2105420",
+   "CHEMBL830",
+   "CHEMBL1983268",
+   "CHEMBL7301",
+   "CHEMBL372764",
+   null,
+   "CHEMBL483465",
+   null,
+   "CHEMBL1615777",
+   null,
+   null,
+   "CHEMBL4594234",
+   "CHEMBL3137342"
+  ]
+ },
+ {
+  "gard": 7191,
+  "MONDO": "MONDO:0016755",
+  "UNII": [
+   "69G8BD63PP",
+   "6UH91I579U"
+  ],
+  "CHEMBL": [
+   "CHEMBL325041",
+   "CHEMBL1614701"
+  ]
+ },
+ {
+  "gard": 7195,
+  "MONDO": "MONDO:0019790",
+  "UNII": [
+   "R60L0SM5BC"
+  ],
+  "CHEMBL": [
+   "CHEMBL655"
+  ]
+ },
+ {
+  "gard": 7207,
+  "MONDO": "MONDO:0009757",
+  "UNII": [
+   "724L30Y2QR",
+   "S39XZ5QV8Y",
+   "K76S41V71X",
+   "Q85FFY6179"
+  ],
+  "CHEMBL": [
+   "CHEMBL1551",
+   "CHEMBL207538",
+   "CHEMBL1875805",
+   null
+  ]
+ },
+ {
+  "gard": 7226,
+  "MONDO": "MONDO:0010298",
+  "UNII": [
+   "2C598205QX",
+   "5X1J3190JI"
+  ],
+  "CHEMBL": [
+   "CHEMBL3400972",
+   "CHEMBL1822916"
+  ]
+ },
+ {
+  "gard": 7229,
+  "MONDO": "MONDO:0024573",
+  "UNII": [
+   "3K9958V90M",
+   "K7V8Y90G0H",
+   "QX45B99R3J"
+  ],
+  "CHEMBL": [
+   "CHEMBL545",
+   "CHEMBL1334033",
+   "CHEMBL4297517"
+  ]
+ },
+ {
+  "gard": 7248,
+  "MONDO": "MONDO:0002801",
+  "UNII": [
+   "3982TWQ96G"
+  ],
+  "CHEMBL": [
+   "CHEMBL278020"
+  ]
+ },
+ {
+  "gard": 7252,
+  "MONDO": "MONDO:0017137",
+  "UNII": [
+   "R8M46911LR"
+  ],
+  "CHEMBL": [
+   "CHEMBL1454946"
+  ]
+ },
+ {
+  "gard": 7269,
+  "MONDO": "MONDO:0009376",
+  "UNII": [
+   "OR3S9IF86U"
+  ],
+  "CHEMBL": [
+   "CHEMBL2108163"
+  ]
+ },
+ {
+  "gard": 7281,
+  "MONDO": null,
+  "UNII": [
+   "28K6I5M16G"
+  ],
+  "CHEMBL": [
+   "CHEMBL2105648"
+  ]
+ },
+ {
+  "gard": 7284,
+  "MONDO": "MONDO:0002629",
+  "UNII": [
+   "3IG1E710ZN",
+   "Q573I9DVLP",
+   "JY0ZTV10W1",
+   "990S25980Y",
+   "3O44K14A86",
+   "9K8GNJ2874",
+   "C3VX249T6L"
+  ],
+  "CHEMBL": [
+   "CHEMBL3244648",
+   "CHEMBL1679",
+   null,
+   "CHEMBL1908841",
+   null,
+   "CHEMBL4297984",
+   "CHEMBL3989986"
+  ]
+ },
+ {
+  "gard": 7295,
+  "MONDO": "MONDO:0008170",
+  "UNII": [
+   "WOH1JD9AR8",
+   "P88XT4IS4D",
+   "2S9ZZM9Q9V",
+   "4HA45S22ZZ",
+   "23KN826MQ4",
+   "67DOW7F9GL",
+   "4S465RYF7M",
+   "53O87HA2QU",
+   "01O4K0631N",
+   "WP6PY72ZH3",
+   "I5590ES2QZ",
+   "181R97MR71",
+   "XT3Z54Z28A",
+   "E90NZP2L9U",
+   "80168379AG",
+   "C28MV4IM0B",
+   "27B90X776A",
+   "7RN5DR86CK",
+   "673LC5J4LQ",
+   "UEC0H0URSE",
+   "M487QF2F4V",
+   "5DVS457HEG",
+   "AYW9KM2EPO",
+   "N65WC8PXDD",
+   "Q26B92650V",
+   "Q60AU1LLNU",
+   "6L5D03D975",
+   "6B799IH05A",
+   "x",
+   "2CN60TN6ZS",
+   "2O09BG0OWA",
+   "36O410ZD4I",
+   "4WE915J1KX",
+   "B3C86E80A0",
+   "I9G3JZ25IH",
+   "J27WDC343N",
+   "K16AIQ8CTM",
+   "LJ16641SFT",
+   "VRC4754D50",
+   "X8Y5U6NC7E",
+   "3YK0326U7X"
+  ],
+  "CHEMBL": [
+   "CHEMBL521686",
+   "CHEMBL428647",
+   "CHEMBL1201583",
+   null,
+   "CHEMBL3586471",
+   "CHEMBL1241855",
+   "CHEMBL3137322",
+   "CHEMBL3137331",
+   "CHEMBL506871",
+   "CHEMBL3301618",
+   "CHEMBL1206232",
+   "CHEMBL3187723",
+   "CHEMBL65",
+   "CHEMBL254219",
+   "CHEMBL53463",
+   "CHEMBL2107818",
+   "CHEMBL45816",
+   "CHEMBL477772",
+   "CHEMBL55",
+   "CHEMBL94657",
+   null,
+   null,
+   null,
+   "CHEMBL2158051",
+   "CHEMBL573677",
+   "CHEMBL2107123",
+   "CHEMBL1980297",
+   "CHEMBL118218",
+   null,
+   "CHEMBL4297516",
+   "CHEMBL1743016",
+   "CHEMBL3039521",
+   "CHEMBL3989689",
+   "CHEMBL1975551",
+   null,
+   null,
+   "CHEMBL2007641",
+   "CHEMBL3039558",
+   null,
+   "CHEMBL2108568",
+   "CHEMBL1742981"
+  ]
+ },
+ {
+  "gard": 7329,
+  "MONDO": "MONDO:0012004",
+  "UNII": [
+   "UAZ6V7728S"
+  ],
+  "CHEMBL": [
+   "CHEMBL1201284"
+  ]
+ },
+ {
+  "gard": 7337,
+  "MONDO": "MONDO:0100245",
+  "UNII": [
+   "A3ULP0F556",
+   "4Z4DFR9BX7",
+   "JM8C1SFX0U",
+   "79V7Q9VIWQ"
+  ],
+  "CHEMBL": [
+   "CHEMBL1201828",
+   "CHEMBL4297260",
+   "CHEMBL4250860",
+   "CHEMBL4297928"
+  ]
+ },
+ {
+  "gard": 7342,
+  "MONDO": "MONDO:0011827",
+  "UNII": [
+   "N01ORX9D6S"
+  ],
+  "CHEMBL": [
+   "CHEMBL1201141"
+  ]
+ },
+ {
+  "gard": 7352,
+  "MONDO": "MONDO:0006594",
+  "UNII": [
+   "4F4X42SYQ6",
+   "1LTT6HMX9N",
+   "BPD4DGQ314"
+  ],
+  "CHEMBL": [
+   "CHEMBL1201576",
+   "CHEMBL4298117",
+   "CHEMBL1743088"
+  ]
+ },
+ {
+  "gard": 7355,
+  "MONDO": "MONDO:0008219",
+  "UNII": [
+   "1MK0TQ597B"
+  ],
+  "CHEMBL": [
+   "CHEMBL3910904"
+  ]
+ },
+ {
+  "gard": 7368,
+  "MONDO": "MONDO:0000430",
+  "UNII": [
+   "YI437801BE",
+   "F4H96P17NZ",
+   "25E79B5CTM",
+   "U6USW86RD0",
+   "T66ES73M18",
+   "x",
+   "E76113IR49",
+   "187EJ7QEXL",
+   "9XX54M675G"
+  ],
+  "CHEMBL": [
+   "CHEMBL1743041",
+   "CHEMBL408513",
+   "CHEMBL1201550",
+   "CHEMBL1417019",
+   "CHEMBL483158",
+   null,
+   "CHEMBL3186849",
+   "CHEMBL7301",
+   "CHEMBL3247378"
+  ]
+ },
+ {
+  "gard": 7383,
+  "MONDO": "MONDO:0009861",
+  "UNII": [
+   "47E5O17Y3R",
+   "514B9K0L10"
+  ],
+  "CHEMBL": [
+   "CHEMBL301523",
+   null
+  ]
+ },
+ {
+  "gard": 7385,
+  "MONDO": "MONDO:0017190",
+  "UNII": [
+   "P2TH1XYZ84",
+   "M575VKV19N"
+  ],
+  "CHEMBL": [
+   "CHEMBL1615777",
+   "CHEMBL3989511"
+  ]
+ },
+ {
+  "gard": 7396,
+  "MONDO": "MONDO:0006906",
+  "UNII": [
+   "5FJL6W0640"
+  ],
+  "CHEMBL": [
+   "CHEMBL4297713"
+  ]
+ },
+ {
+  "gard": 7409,
+  "MONDO": null,
+  "UNII": [
+   "L137U4A79K",
+   "H0982HF78B",
+   "Y883P1Z2LT",
+   "V2P3K60DA2",
+   "V77I71FH72"
+  ],
+  "CHEMBL": [
+   null,
+   "CHEMBL43128",
+   "CHEMBL1450",
+   "CHEMBL361506",
+   "CHEMBL1712863"
+  ]
+ },
+ {
+  "gard": 7413,
+  "MONDO": "MONDO:0017373",
+  "UNII": [
+   "4ILA3VOV97"
+  ],
+  "CHEMBL": [
+   "CHEMBL1235858"
+  ]
+ },
+ {
+  "gard": 7422,
+  "MONDO": "MONDO:0009891",
+  "UNII": [
+   "5P60F84FBH",
+   "ANC71R916O",
+   "QSQ883V35U",
+   "82S8X8XX8H",
+   "DO989GC5D1"
+  ],
+  "CHEMBL": [
+   "CHEMBL1213492",
+   "CHEMBL2107823",
+   "CHEMBL2402737",
+   "CHEMBL1789941",
+   "CHEMBL603469"
+  ]
+ },
+ {
+  "gard": 7425,
+  "MONDO": "MONDO:0019127",
+  "UNII": [
+   "RR6P8L282I"
+  ],
+  "CHEMBL": [
+   "CHEMBL2336071"
+  ]
+ },
+ {
+  "gard": 7444,
+  "MONDO": "MONDO:0004651",
+  "UNII": [
+   "6794O900AX",
+   "F925RR824R",
+   "7UB4J759TD"
+  ],
+  "CHEMBL": [
+   "CHEMBL203321",
+   "CHEMBL1257073",
+   null
+  ]
+ },
+ {
+  "gard": 7446,
+  "MONDO": "MONDO:0000088",
+  "UNII": [
+   "QMG7HLD1ZE",
+   "8ENZ0QJW4H",
+   "37JNS02E7V",
+   "H50H3S3W74"
+  ],
+  "CHEMBL": [
+   null,
+   null,
+   "CHEMBL1200775",
+   "CHEMBL1201255"
+  ]
+ },
+ {
+  "gard": 7459,
+  "MONDO": "MONDO:0005388",
+  "UNII": [
+   "0462Z4S4OZ",
+   "724L30Y2QR",
+   "2W150K0UUC",
+   "V78M04F0XC",
+   "IK9NYN31ZM"
+  ],
+  "CHEMBL": [
+   "CHEMBL566315",
+   "CHEMBL1551",
+   "CHEMBL4297588",
+   "CHEMBL17879",
+   "CHEMBL4298055"
+  ]
+ },
+ {
+  "gard": 7468,
+  "MONDO": "MONDO:0016318",
+  "UNII": [
+   "8A1O1M485B"
+  ],
+  "CHEMBL": [
+   "CHEMBL1642"
+  ]
+ },
+ {
+  "gard": 7471,
+  "MONDO": "MONDO:0019037",
+  "UNII": [
+   "Q747Y6TT42",
+   "3G943U18KM",
+   "6P87MRR8OA",
+   "GF00K3IIWE"
+  ],
+  "CHEMBL": [
+   "CHEMBL3545157",
+   "CHEMBL121626",
+   null,
+   null
+  ]
+ },
+ {
+  "gard": 7475,
+  "MONDO": "MONDO:0008318",
+  "UNII": [
+   "T1DQI1B52Y"
+  ],
+  "CHEMBL": [
+   "CHEMBL4297188"
+  ]
+ },
+ {
+  "gard": 7499,
+  "MONDO": "MONDO:0012579",
+  "UNII": [
+   "W36ZG6FT64",
+   "92E9B7675Y",
+   "2057H3EG0S",
+   "3P63ZTE3OY",
+   "CQY12ZJN6E",
+   "I440YY0HX0",
+   "35E3NJJ4O6",
+   "7JZ75N2NT6",
+   "200AW54D93",
+   "B321AL142J"
+  ],
+  "CHEMBL": [
+   "CHEMBL413",
+   "CHEMBL4297322",
+   null,
+   "CHEMBL4650333",
+   "CHEMBL3301604",
+   null,
+   "CHEMBL1207745",
+   null,
+   null,
+   "CHEMBL2109134"
+  ]
+ },
+ {
+  "gard": 7501,
+  "MONDO": "MONDO:0015924",
+  "UNII": [
+   "HW6NV07QEC",
+   "Z9K9Y9WMVL",
+   "WM0HAQ4WNM",
+   "RU3FE2Y4XI",
+   "31C4KY9ESH",
+   "742SXX0ICT",
+   "5EXC0E384L",
+   "21OJT43Q88",
+   "I0J33N5627",
+   "42932X67B5",
+   "7HT68L8941",
+   "M0KG633D4F",
+   "JED5K35YGL",
+   "BKJ8M8G5HI",
+   "E0QN3D755O",
+   "DCR9Z582X0",
+   "6V9JH46E20",
+   "RUM6K67ESG",
+   "N9A0A0R9S8",
+   "NS3988A2TC",
+   "NWR3BEB8PA",
+   "6C8TLD4Q9K",
+   "T0SY6373OQ",
+   "A67JUW790C",
+   "IJ3FUK8MOF"
+  ],
+  "CHEMBL": [
+   "CHEMBL1111",
+   "CHEMBL2103873",
+   "CHEMBL3989887",
+   "CHEMBL2107834",
+   "CHEMBL1200689",
+   "CHEMBL779",
+   "CHEMBL238804",
+   "CHEMBL73151",
+   "CHEMBL29292",
+   "CHEMBL306823",
+   "CHEMBL1093059",
+   "CHEMBL93268",
+   "CHEMBL494",
+   "CHEMBL941",
+   "CHEMBL157138",
+   "CHEMBL1139",
+   "CHEMBL2105740",
+   "CHEMBL1237119",
+   "CHEMBL203266",
+   "CHEMBL3916717",
+   "CHEMBL3989686",
+   "CHEMBL3137337",
+   null,
+   null,
+   null
+  ]
+ },
+ {
+  "gard": 7510,
+  "MONDO": "MONDO:0018824",
+  "UNII": [
+   "QX3JU54GYQ"
+  ],
+  "CHEMBL": [
+   "CHEMBL1743026"
+  ]
+ },
+ {
+  "gard": 7514,
+  "MONDO": "MONDO:0009950",
+  "UNII": [
+   "JFENOMOVE6"
+  ],
+  "CHEMBL": [
+   null
+  ]
+ },
+ {
+  "gard": 7516,
+  "MONDO": "MONDO:0019173",
+  "UNII": [
+   "I0V66KI1LD"
+  ],
+  "CHEMBL": [
+   null
+  ]
+ },
+ {
+  "gard": 7525,
+  "MONDO": "MONDO:0017606",
+  "UNII": [
+   "6CW7F3G59X",
+   "S07O44R1ZM",
+   "TX3R141LEP",
+   "1N74HM2BS7",
+   "9N7R477WCK",
+   "33T61IWL27"
+  ],
+  "CHEMBL": [
+   "CHEMBL940",
+   "CHEMBL294199",
+   "CHEMBL604710",
+   "CHEMBL634",
+   "CHEMBL1200336",
+   null
+  ]
+ },
+ {
+  "gard": 7527,
+  "MONDO": "MONDO:0016019",
+  "UNII": [
+   "4F4X42SYQ6"
+  ],
+  "CHEMBL": [
+   "CHEMBL1201576"
+  ]
+ },
+ {
+  "gard": 7563,
+  "MONDO": "MONDO:0008380",
+  "UNII": [
+   "Q41OR9510P"
+  ],
+  "CHEMBL": [
+   "CHEMBL852"
+  ]
+ },
+ {
+  "gard": 7572,
+  "MONDO": "MONDO:0002728",
+  "UNII": [
+   "Q40W93WPE1"
+  ],
+  "CHEMBL": [
+   "CHEMBL3414621"
+  ]
+ },
+ {
+  "gard": 7604,
+  "MONDO": "MONDO:0010006",
+  "UNII": [
+   "Z3614QOX8W"
+  ],
+  "CHEMBL": [
+   "CHEMBL36"
+  ]
+ },
+ {
+  "gard": 7645,
+  "MONDO": "MONDO:0008346",
+  "UNII": [
+   "2BTY8KH53L"
+  ],
+  "CHEMBL": [
+   "CHEMBL70927"
+  ]
+ },
+ {
+  "gard": 7674,
+  "MONDO": "MONDO:0001516",
+  "UNII": [
+   "P12R69543A",
+   "K16AME9I3V",
+   "NT6K61736T",
+   "ZH6F1VCV7B",
+   "6O86C0ZH33"
+  ],
+  "CHEMBL": [
+   "CHEMBL4290141",
+   "CHEMBL256997",
+   "CHEMBL1746",
+   "CHEMBL2105745",
+   null
+  ]
+ },
+ {
+  "gard": 7704,
+  "MONDO": "MONDO:0001056",
+  "UNII": [
+   "6T8C155666",
+   "P188ANX8CK",
+   "D99YVK4L0X",
+   "4NH22NDW9H",
+   "DPT0O3T46P",
+   "P88XT4IS4D",
+   "524Y3IB4HQ",
+   "ZK89EG3A18",
+   "18P7197Q7J",
+   "TK02X14ASJ",
+   "Z1HHM49K7O",
+   "80168379AG",
+   "039LU44I5M",
+   "846Y8197W1",
+   "UG97LO5M8Y",
+   "V7I58RC5EJ",
+   "ZP3QP1H44W",
+   "7J9Y28299R",
+   "M2HPV837HO",
+   "RO03J093CP",
+   "UHE660O07W",
+   "Z20OC92TDI",
+   "K16AIQ8CTM",
+   "950736UC77"
+  ],
+  "CHEMBL": [
+   "CHEMBL1789844",
+   "CHEMBL1201585",
+   "CHEMBL1743062",
+   "CHEMBL1201037",
+   "CHEMBL3137343",
+   "CHEMBL428647",
+   "CHEMBL2177390",
+   null,
+   "CHEMBL2079588",
+   "CHEMBL3545414",
+   "CHEMBL64130",
+   "CHEMBL53463",
+   "CHEMBL917",
+   "CHEMBL2103842",
+   "CHEMBL2107787",
+   "CHEMBL2103835",
+   null,
+   null,
+   "CHEMBL2108581",
+   null,
+   null,
+   "CHEMBL4650256",
+   "CHEMBL2007641",
+   "CHEMBL4297537"
+  ]
+ },
+ {
+  "gard": 7710,
+  "MONDO": "MONDO:0009114",
+  "UNII": [
+   "8A7F670F2Y"
+  ],
+  "CHEMBL": [
+   "CHEMBL1201487"
+  ]
+ },
+ {
+  "gard": 7737,
+  "MONDO": "MONDO:0010100",
+  "UNII": [
+   "ML5FHL557A"
+  ],
+  "CHEMBL": [
+   "CHEMBL257158"
+  ]
+ },
+ {
+  "gard": 7756,
+  "MONDO": "MONDO:0000984",
+  "UNII": [
+   "0NIZ8H6OL8",
+   "82UOE7B38Z",
+   "IK8S1P79MU"
+  ],
+  "CHEMBL": [
+   "CHEMBL2311128",
+   "CHEMBL352219",
+   "CHEMBL4297982"
+  ]
+ },
+ {
+  "gard": 7760,
+  "MONDO": null,
+  "UNII": [
+   "AC71R787OV"
+  ],
+  "CHEMBL": [
+   "CHEMBL4297869"
+  ]
+ },
+ {
+  "gard": 7794,
+  "MONDO": "MONDO:0006474",
+  "UNII": [
+   "A8Q8I19Q20"
+  ],
+  "CHEMBL": [
+   "CHEMBL1201746"
+  ]
+ },
+ {
+  "gard": 7796,
+  "MONDO": "MONDO:0021553",
+  "UNII": [
+   "H789N3FKE8"
+  ],
+  "CHEMBL": [
+   "CHEMBL701"
+  ]
+ },
+ {
+  "gard": 7805,
+  "MONDO": "MONDO:0008599",
+  "UNII": [
+   "3K9958V90M",
+   "3OHN4989XM",
+   "142M471B3J"
+  ],
+  "CHEMBL": [
+   "CHEMBL545",
+   "CHEMBL302213",
+   "CHEMBL1231871"
+  ]
+ },
+ {
+  "gard": 7826,
+  "MONDO": "MONDO:0005459",
+  "UNII": [
+   "4NH22NDW9H",
+   "K27F04K3A9",
+   "306ERL82IR",
+   "ZF3786Q2E8"
+  ],
+  "CHEMBL": [
+   "CHEMBL1201037",
+   "CHEMBL2107359",
+   "CHEMBL1631694",
+   "CHEMBL166"
+  ]
+ },
+ {
+  "gard": 7830,
+  "MONDO": "MONDO:0019341",
+  "UNII": [
+   "W36ZG6FT64",
+   "9HW64Q8G6G"
+  ],
+  "CHEMBL": [
+   "CHEMBL413",
+   "CHEMBL1908360"
+  ]
+ },
+ {
+  "gard": 7831,
+  "MONDO": "MONDO:0019499",
+  "UNII": [
+   "NQX9KB6PCL",
+   "CU8D464EDW",
+   "4TI98Z838E",
+   "423D2T571U"
+  ],
+  "CHEMBL": [
+   "CHEMBL1201621",
+   "CHEMBL1201620",
+   "CHEMBL135",
+   "CHEMBL691"
+  ]
+ },
+ {
+  "gard": 7837,
+  "MONDO": "MONDO:0004739",
+  "UNII": [
+   "NT6K61736T",
+   "5138Q19F1X"
+  ],
+  "CHEMBL": [
+   "CHEMBL1746",
+   "CHEMBL1160819"
+  ]
+ },
+ {
+  "gard": 7854,
+  "MONDO": "MONDO:0019085",
+  "UNII": [
+   "50LV9A548L",
+   "Q2WXR1I0PK",
+   "83HN0GTJ6D",
+   "124XMA6YEI"
+  ],
+  "CHEMBL": [
+   "CHEMBL3989725",
+   "CHEMBL74",
+   "CHEMBL160",
+   "CHEMBL1237102"
+  ]
+ },
+ {
+  "gard": 7855,
+  "MONDO": "MONDO:0008667",
+  "UNII": [
+   "71IA9S35AJ"
+  ],
+  "CHEMBL": [
+   "CHEMBL276711"
+  ]
+ },
+ {
+  "gard": 7864,
+  "MONDO": "MONDO:0009287",
+  "UNII": [
+   "5SL0G7R0OK",
+   "4XO4QFV777"
+  ],
+  "CHEMBL": [
+   "CHEMBL448805",
+   null
+  ]
+ },
+ {
+  "gard": 7866,
+  "MONDO": "MONDO:0018975",
+  "UNII": [
+   "86K0J5AK6M"
+  ],
+  "CHEMBL": [
+   "CHEMBL507361"
+  ]
+ },
+ {
+  "gard": 7872,
+  "MONDO": "MONDO:0100280",
+  "UNII": [
+   "1X70OSD4VX",
+   "YG57I8T5M0",
+   "MZ37792Y8J",
+   "2U46M95B5M"
+  ],
+  "CHEMBL": [
+   "CHEMBL1873475",
+   "CHEMBL2216870",
+   "CHEMBL2103884",
+   "CHEMBL4297995"
+  ]
+ },
+ {
+  "gard": 7880,
+  "MONDO": "MONDO:0012105",
+  "UNII": [
+   "4F4X42SYQ6",
+   "QZS4144IO0"
+  ],
+  "CHEMBL": [
+   "CHEMBL1201576",
+   "CHEMBL2356648"
+  ]
+ },
+ {
+  "gard": 7887,
+  "MONDO": "MONDO:0018097",
+  "UNII": [
+   "98WI44OHIQ",
+   "19GBJ60SN5",
+   "1M49V1PBPL",
+   "D7NM51C3GU",
+   "P7725I9V3Z",
+   "72YY86EA29"
+  ],
+  "CHEMBL": [
+   "CHEMBL1568698",
+   "CHEMBL190461",
+   "CHEMBL4594269",
+   "CHEMBL4594413",
+   "CHEMBL2087003",
+   null
+  ]
+ },
+ {
+  "gard": 7893,
+  "MONDO": "MONDO:0010200",
+  "UNII": [
+   "HC3NX54582",
+   "FM5526K07A"
+  ],
+  "CHEMBL": [
+   "CHEMBL3989777",
+   "CHEMBL3184986"
+  ]
+ },
+ {
+  "gard": 7898,
+  "MONDO": "MONDO:0018105",
+  "UNII": [
+   "287M0347EV",
+   "5VOM6GYJ0D"
+  ],
+  "CHEMBL": [
+   null,
+   "CHEMBL433"
+  ]
+ },
+ {
+  "gard": 7904,
+  "MONDO": "MONDO:0010622",
+  "UNII": [
+   "22G38P19RL"
+  ],
+  "CHEMBL": [
+   null
+  ]
+ },
+ {
+  "gard": 7910,
+  "MONDO": "MONDO:0019600",
+  "UNII": [
+   "CU50CY5QP5"
+  ],
+  "CHEMBL": [
+   null
+  ]
+ },
+ {
+  "gard": 7918,
+  "MONDO": "MONDO:0019610",
+  "UNII": [
+   "A0426J905J",
+   "D0L9J6I13I"
+  ],
+  "CHEMBL": [
+   null,
+   null
+  ]
+ },
+ {
+  "gard": 7922,
+  "MONDO": "MONDO:0020121",
+  "UNII": [
+   "75017Q6I97",
+   "K16AME9I3V",
+   "5V14HD0N4Q",
+   "IJ3FUK8MOF",
+   "QJK0WC9NHE"
+  ],
+  "CHEMBL": [
+   "CHEMBL1738757",
+   "CHEMBL256997",
+   "CHEMBL1232111",
+   null,
+   null
+  ]
+ },
+ {
+  "gard": 8157,
+  "MONDO": "MONDO:0005119",
+  "UNII": [
+   "J0086219X6",
+   "794PGL549S",
+   "29Z5DNL48C",
+   "873OI62848"
+  ],
+  "CHEMBL": [
+   "CHEMBL3989904",
+   "CHEMBL2108638",
+   "CHEMBL3544926",
+   null
+  ]
+ },
+ {
+  "gard": 8194,
+  "MONDO": "MONDO:0015484",
+  "UNII": [
+   "OMP2H17F9E",
+   "6490C9U457"
+  ],
+  "CHEMBL": [
+   "CHEMBL42442",
+   "CHEMBL976"
+  ]
+ },
+ {
+  "gard": 8197,
+  "MONDO": "MONDO:0008434",
+  "UNII": [
+   "JL5DK93RCL"
+  ],
+  "CHEMBL": [
+   "CHEMBL45"
+  ]
+ },
+ {
+  "gard": 8223,
+  "MONDO": null,
+  "UNII": [
+   "4FR53SIF3A"
+  ],
+  "CHEMBL": [
+   "CHEMBL1742992"
+  ]
+ },
+ {
+  "gard": 8225,
+  "MONDO": "MONDO:0020311",
+  "UNII": [
+   "90YLS47BRX"
+  ],
+  "CHEMBL": [
+   null
+  ]
+ },
+ {
+  "gard": 8226,
+  "MONDO": "MONDO:0004643",
+  "UNII": [
+   "8GZG754X6M",
+   "5L84T2Z6NP",
+   "5L5GE3DV88",
+   "29EX23D5AJ",
+   "6EM57086EA",
+   "6I3O3W6O3B",
+   "K6A90IIZ19",
+   "N21FAR7B4S",
+   "45AD6X575G",
+   "813AGY3126",
+   "31TZ62FO8F",
+   "V083S0159D",
+   "08V52GZ3H9",
+   "70JE2N95KR",
+   "KZK563J2UW",
+   "74GNV897RO",
+   "L1F2Q2X956",
+   "M0Q7802G2B",
+   "Q813145M20",
+   "SNU299M83Q",
+   "TA7WJG93AR",
+   "05FZV98342",
+   "7KNP87L4X4",
+   "DO989GC5D1",
+   "G4FQ3CKY5R",
+   "H8QG06RS7R",
+   "K6KJ8AZ05F",
+   "PVH8394DLN",
+   "TG824J6RQT",
+   "W8C4AP9R9S",
+   "Z03K553649",
+   "T13V17U431",
+   "U6E7R9OE4R",
+   "V00Y10W60W"
+  ],
+  "CHEMBL": [
+   "CHEMBL1201506",
+   "CHEMBL1200475",
+   "CHEMBL462018",
+   "CHEMBL176045",
+   "CHEMBL1233528",
+   "CHEMBL3265032",
+   "CHEMBL68117",
+   "CHEMBL53",
+   "CHEMBL428690",
+   "CHEMBL2074689",
+   "CHEMBL3545185",
+   null,
+   "CHEMBL25202",
+   "CHEMBL376140",
+   "CHEMBL2103847",
+   "CHEMBL3989424",
+   "CHEMBL1411",
+   "CHEMBL4297264",
+   "CHEMBL214321",
+   null,
+   "CHEMBL2105665",
+   "CHEMBL2105107",
+   "CHEMBL3039543",
+   "CHEMBL603469",
+   "CHEMBL2108989",
+   null,
+   "CHEMBL2108280",
+   null,
+   "CHEMBL503868",
+   null,
+   null,
+   "CHEMBL3990021",
+   null,
+   "CHEMBL2109150"
+  ]
+ },
+ {
+  "gard": 8233,
+  "MONDO": "MONDO:0018150",
+  "UNII": [
+   "ADN3S497AZ",
+   "200168S0CL",
+   "DR40J4WA67",
+   "AK7DRB7FMO",
+   "BLP1XA3FZA",
+   "285ZJJ9773",
+   "0R4NLX88O4",
+   "23HYE36B0I"
+  ],
+  "CHEMBL": [
+   "CHEMBL1029",
+   "CHEMBL153479",
+   "CHEMBL2110588",
+   "CHEMBL448864",
+   "CHEMBL4297611",
+   null,
+   "CHEMBL1964120",
+   "CHEMBL1201865"
+  ]
+ },
+ {
+  "gard": 8310,
+  "MONDO": "MONDO:0008056",
+  "UNII": [
+   "Q747Y6TT42"
+  ],
+  "CHEMBL": [
+   "CHEMBL3545157"
+  ]
+ },
+ {
+  "gard": 8378,
+  "MONDO": "MONDO:0009889",
+  "UNII": [
+   "F6XM2TN5A1"
+  ],
+  "CHEMBL": [
+   "CHEMBL3544983"
+  ]
+ },
+ {
+  "gard": 8391,
+  "MONDO": "MONDO:0010703",
+  "UNII": [
+   "E524N2IXA3"
+  ],
+  "CHEMBL": [
+   "CHEMBL446143"
+  ]
+ },
+ {
+  "gard": 8403,
+  "MONDO": "MONDO:0020257",
+  "UNII": [
+   "51M993JIQ4"
+  ],
+  "CHEMBL": [
+   "CHEMBL4594541"
+  ]
+ },
+ {
+  "gard": 8436,
+  "MONDO": "MONDO:0017276",
+  "UNII": [
+   "3G943U18KM",
+   "7R978066MK",
+   "AAE07Z061B",
+   "Z020Y8WIJ4"
+  ],
+  "CHEMBL": [
+   "CHEMBL121626",
+   "CHEMBL346647",
+   null,
+   null
+  ]
+ },
+ {
+  "gard": 8533,
+  "MONDO": "MONDO:0023113",
+  "UNII": [
+   "234248D0HH",
+   "U3P01618RT"
+  ],
+  "CHEMBL": [
+   "CHEMBL3989868",
+   "CHEMBL185"
+  ]
+ },
+ {
+  "gard": 8577,
+  "MONDO": "MONDO:0017255",
+  "UNII": [
+   "S8A06QG2QE",
+   "7S5I7G3JQL",
+   "91X1KLU43E",
+   "DLG4EML025",
+   "QX3JU54GYQ"
+  ],
+  "CHEMBL": [
+   "CHEMBL1201749",
+   "CHEMBL384467",
+   "CHEMBL1201833",
+   "CHEMBL1743068",
+   "CHEMBL1743026"
+  ]
+ },
+ {
+  "gard": 8598,
+  "MONDO": "MONDO:0011719",
+  "UNII": [
+   "8A1O1M485B",
+   "24T2A1DOYB",
+   "M59NC4E26P",
+   "BZF2ZM0I5Z"
+  ],
+  "CHEMBL": [
+   "CHEMBL1642",
+   "CHEMBL1946170",
+   "CHEMBL1908391",
+   "CHEMBL1184904"
+  ]
+ },
+ {
+  "gard": 8609,
+  "MONDO": "MONDO:0008345",
+  "UNII": [
+   "Z9K9Y9WMVL",
+   "31C4KY9ESH",
+   "G6HRD2P839",
+   "M5O06306UO",
+   "45II35329V",
+   "D7NLD2JX7U",
+   "08379P260O",
+   "I02418V13W",
+   "I440YY0HX0",
+   "R05571KE07",
+   "7U1EE4V452",
+   "4V6I63LW1E",
+   "8PL809KPW4",
+   "P050J5FWC5",
+   "QS5F6VTS0O",
+   "U9JLP7V031",
+   "ZL04JX89M7",
+   "375142VBIA",
+   "6TC1BB2EV9",
+   "GK1LYB375A"
+  ],
+  "CHEMBL": [
+   "CHEMBL2103873",
+   "CHEMBL1200689",
+   "CHEMBL502835",
+   "CHEMBL1950289",
+   "CHEMBL4303187",
+   "CHEMBL1256391",
+   "CHEMBL2104988",
+   "CHEMBL3828074",
+   null,
+   null,
+   "CHEMBL1231840",
+   null,
+   null,
+   null,
+   "CHEMBL2109377",
+   "CHEMBL1743035",
+   "CHEMBL2108583",
+   "CHEMBL1743022",
+   "CHEMBL1742999",
+   "CHEMBL1743081"
+  ]
+ },
+ {
+  "gard": 8614,
+  "MONDO": "MONDO:0011382",
+  "UNII": [
+   "776B62CQ27",
+   "W36ZG6FT64",
+   "TS6G201A6Q",
+   "F6M52CDT0W",
+   "XAN4V337CI",
+   "G07GZ97H65",
+   "M0KG633D4F",
+   "ZAD9OKH9JC",
+   "L5ORF0AN1I",
+   "X6Q56QN5QC",
+   "NT6K61736T",
+   "914032762Y",
+   "483AU1Y5CZ",
+   "70ETD81LF0",
+   "PD5F4ZXD21",
+   "IE65P4OE02",
+   "TA269SD04T",
+   "7U1EE4V452",
+   "S88TT14065",
+   "7C17NQF03M",
+   "CUL9PN8ELJ",
+   "x"
+  ],
+  "CHEMBL": [
+   "CHEMBL1201129",
+   "CHEMBL413",
+   "CHEMBL405821",
+   "CHEMBL2107809",
+   "CHEMBL2296002",
+   "CHEMBL104",
+   "CHEMBL93268",
+   "CHEMBL367149",
+   "CHEMBL1983268",
+   "CHEMBL467",
+   "CHEMBL1746",
+   "CHEMBL1201516",
+   "CHEMBL1899801",
+   "CHEMBL185885",
+   "CHEMBL4297616",
+   "CHEMBL1968477",
+   "CHEMBL15972",
+   "CHEMBL1231840",
+   "CHEMBL1234886",
+   "CHEMBL4297825",
+   null,
+   null
+  ]
+ },
+ {
+  "gard": 8618,
+  "MONDO": "MONDO:0009692",
+  "UNII": [
+   "D2UX06XLB5",
+   "436LRU32H5",
+   "06IVK87M04",
+   "04201GDN4R",
+   "39200FJ43J",
+   "43K1W2T1M6",
+   "2PYF2U9JNF",
+   "F60NE4XB53",
+   "G22N65IL3O"
+  ],
+  "CHEMBL": [
+   "CHEMBL43452",
+   "CHEMBL1795071",
+   "CHEMBL200102",
+   "CHEMBL1161",
+   "CHEMBL2107358",
+   "CHEMBL1201558",
+   null,
+   "CHEMBL2107856",
+   "CHEMBL2035187"
+  ]
+ },
+ {
+  "gard": 8638,
+  "MONDO": "MONDO:0019460",
+  "UNII": [
+   "776B62CQ27",
+   "U6E7R9OE4R"
+  ],
+  "CHEMBL": [
+   "CHEMBL1201129",
+   null
+  ]
+ },
+ {
+  "gard": 8683,
+  "MONDO": "MONDO:0011725",
+  "UNII": [
+   "X3SSV2V6L3",
+   "JFENOMOVE6"
+  ],
+  "CHEMBL": [
+   null,
+   null
+  ]
+ },
+ {
+  "gard": 8687,
+  "MONDO": null,
+  "UNII": [
+   "XRO4566Q4R"
+  ],
+  "CHEMBL": [
+   "CHEMBL1201562"
+  ]
+ },
+ {
+  "gard": 8729,
+  "MONDO": "MONDO:0004944",
+  "UNII": [
+   "Q42T66VG0C"
+  ],
+  "CHEMBL": [
+   "CHEMBL29"
+  ]
+ },
+ {
+  "gard": 8732,
+  "MONDO": "MONDO:0010604",
+  "UNII": [
+   "J41CSQ7QDS",
+   "382L14738L",
+   "6U90Y1795T",
+   "2COU0B578R",
+   "02E00T2QDE",
+   "T0LTO7L82X"
+  ],
+  "CHEMBL": [
+   "CHEMBL1201279",
+   "CHEMBL4298080",
+   "CHEMBL4297986",
+   null,
+   "CHEMBL4594598",
+   "CHEMBL2108574"
+  ]
+ },
+ {
+  "gard": 9128,
+  "MONDO": "MONDO:0020122",
+  "UNII": [
+   "7D0YB67S97"
+  ],
+  "CHEMBL": [
+   "CHEMBL1201823"
+  ]
+ },
+ {
+  "gard": 9142,
+  "MONDO": "MONDO:0016129",
+  "UNII": [
+   "O2GMZ0LF5W",
+   "35A26E427H",
+   "420K487FSG",
+   "EJ48MR05C3",
+   "Q3OKS62Q6X"
+  ],
+  "CHEMBL": [
+   "CHEMBL1473",
+   "CHEMBL2107884",
+   "CHEMBL2108675",
+   "CHEMBL4650505",
+   "CHEMBL1370"
+  ]
+ },
+ {
+  "gard": 9162,
+  "MONDO": "MONDO:0002158",
+  "UNII": [
+   "UEC0H0URSE"
+  ],
+  "CHEMBL": [
+   "CHEMBL94657"
+  ]
+ },
+ {
+  "gard": 9180,
+  "MONDO": "MONDO:0013860",
+  "UNII": [
+   "A3ULP0F556"
+  ],
+  "CHEMBL": [
+   "CHEMBL1201828"
+  ]
+ },
+ {
+  "gard": 9240,
+  "MONDO": "MONDO:0000870",
+  "UNII": [
+   "957E6438QA"
+  ],
+  "CHEMBL": [
+   "CHEMBL452231"
+  ]
+ },
+ {
+  "gard": 9255,
+  "MONDO": "MONDO:0100062",
+  "UNII": [
+   "98WI44OHIQ"
+  ],
+  "CHEMBL": [
+   "CHEMBL1568698"
+  ]
+ },
+ {
+  "gard": 9265,
+  "MONDO": "MONDO:0011724",
+  "UNII": [
+   "2P6O7CFW5K"
+  ],
+  "CHEMBL": [
+   "CHEMBL4297585"
+  ]
+ },
+ {
+  "gard": 9266,
+  "MONDO": "MONDO:0019210",
+  "UNII": [
+   "DPT0O3T46P",
+   "H8QG06RS7R"
+  ],
+  "CHEMBL": [
+   "CHEMBL3137343",
+   null
+  ]
+ },
+ {
+  "gard": 9285,
+  "MONDO": "MONDO:0005629",
+  "UNII": [
+   "322U039GMF"
+  ],
+  "CHEMBL": [
+   null
+  ]
+ },
+ {
+  "gard": 9297,
+  "MONDO": "MONDO:0008674",
+  "UNII": [
+   "0G9LGB5O2W"
+  ],
+  "CHEMBL": [
+   "CHEMBL518924"
+  ]
+ },
+ {
+  "gard": 9298,
+  "MONDO": "MONDO:0009945",
+  "UNII": [
+   "KV2JZ1BI6Z"
+  ],
+  "CHEMBL": [
+   "CHEMBL1364"
+  ]
+ },
+ {
+  "gard": 9300,
+  "MONDO": "MONDO:0001879",
+  "UNII": [
+   "S4D3L195S4",
+   "x"
+  ],
+  "CHEMBL": [
+   null,
+   null
+  ]
+ },
+ {
+  "gard": 9304,
+  "MONDO": "MONDO:0019087",
+  "UNII": [
+   "63JMV04GRK",
+   "673LC5J4LQ",
+   "A60X6MBU6G",
+   "x"
+  ],
+  "CHEMBL": [
+   "CHEMBL177837",
+   "CHEMBL55",
+   "CHEMBL2107313",
+   null
+  ]
+ },
+ {
+  "gard": 9307,
+  "MONDO": "MONDO:0001657",
+  "UNII": [
+   "4Z8R6ORS6L",
+   "LJ2P1SIK8Y",
+   "LW4108Q0BV"
+  ],
+  "CHEMBL": [
+   "CHEMBL468",
+   "CHEMBL2104612",
+   "CHEMBL1256575"
+  ]
+ },
+ {
+  "gard": 9316,
+  "MONDO": "MONDO:0005369",
+  "UNII": [
+   "RWM8CCW8GP",
+   "HOU4I0G29C"
+  ],
+  "CHEMBL": [
+   "CHEMBL1680",
+   "CHEMBL324547"
+  ]
+ },
+ {
+  "gard": 9318,
+  "MONDO": "MONDO:0002571",
+  "UNII": [
+   "6Z3QHB00LB",
+   "EQ6UHPL10W"
+  ],
+  "CHEMBL": [
+   "CHEMBL4084907",
+   null
+  ]
+ },
+ {
+  "gard": 9331,
+  "MONDO": "MONDO:0018055",
+  "UNII": [
+   "4HTE364XIK",
+   "6CX4AEX3KR",
+   "USO2D5J77R",
+   "X6SH5T8H76",
+   "7J95K7ID2S",
+   "I0V66KI1LD"
+  ],
+  "CHEMBL": [
+   "CHEMBL3939295",
+   "CHEMBL3989913",
+   "CHEMBL4650330",
+   "CHEMBL4297474",
+   null,
+   null
+  ]
+ },
+ {
+  "gard": 9344,
+  "MONDO": null,
+  "UNII": [
+   "T66ES73M18",
+   "7RPW6SU9SC",
+   "93N13LB4Z2",
+   "15H5577CQD",
+   "C28MV4IM0B",
+   "B5TAN0L720",
+   "M9BYU8XDQ6",
+   "333YMY788E",
+   "P256HB60FF",
+   "U6E7R9OE4R"
+  ],
+  "CHEMBL": [
+   "CHEMBL483158",
+   "CHEMBL3526802",
+   "CHEMBL1186894",
+   "CHEMBL3545252",
+   "CHEMBL2107818",
+   "CHEMBL3544907",
+   "CHEMBL3545262",
+   "CHEMBL3301588",
+   "CHEMBL3990011",
+   null
+  ]
+ },
+ {
+  "gard": 9360,
+  "MONDO": "MONDO:0023644",
+  "UNII": [
+   "x"
+  ],
+  "CHEMBL": [
+   null
+  ]
+ },
+ {
+  "gard": 9364,
+  "MONDO": null,
+  "UNII": [
+   "1X70OSD4VX",
+   "P88XT4IS4D",
+   "8OBZ1M4V3V",
+   "67DOW7F9GL",
+   "KZ1O2SH88Z",
+   "2M3055079H",
+   "0Z4A82I0JO",
+   "63JMV04GRK",
+   "M59NC4E26P",
+   "MZH0OM550M",
+   "E76113IR49",
+   "DRG21OQ517",
+   "C9LVQ0YUXG",
+   "7HT68L8941",
+   "2K3L8O9SOV",
+   "ZQN1G5V6SR",
+   "203546OLMF",
+   "27B90X776A",
+   "9Y8NXQ24VQ",
+   "H19C446XXB",
+   "995FT1W541",
+   "5UX2SD1KE2",
+   "V956696549",
+   "673LC5J4LQ",
+   "1W5N8SZD9A",
+   "2158753C7E",
+   "AX9P92T7JZ",
+   "PA7UX1FFYQ",
+   "S5M7KW6U17",
+   "TE3ESF890C",
+   "X1840C8161",
+   "5YSY733NA3",
+   "88928BS57E",
+   "6B799IH05A",
+   "CEGM9YBNGD",
+   "EJ27X76M46",
+   "114VP6C6ES",
+   "3WJQ0SDW1A",
+   "40S1VHN69B",
+   "47959853R5",
+   "4TEW51C830",
+   "6NS400BXKH",
+   "98OYR854NY",
+   "CK1441RCZ8",
+   "F988K568V2",
+   "I0V66KI1LD",
+   "IRH51QN26H",
+   "J56RKY13OV",
+   "LOS728452T",
+   "M2ZSG4KZO6",
+   "M9BYU8XDQ6",
+   "Q250P2D9Y8",
+   "QS5F6VTS0O",
+   "SMD1X3XO9M",
+   "Z03K553649",
+   "Z6Q90D1G53",
+   "ZAM5J1ATF2",
+   "11Z5AIU653",
+   "333YMY788E",
+   "3O44K14A86",
+   "6HP0354G04",
+   "6TC1BB2EV9",
+   "I639ME27W5",
+   "SF168W7FW0"
+  ],
+  "CHEMBL": [
+   "CHEMBL1873475",
+   "CHEMBL428647",
+   "CHEMBL2105420",
+   "CHEMBL1241855",
+   "CHEMBL67279",
+   "CHEMBL31634",
+   "CHEMBL2064455",
+   "CHEMBL177837",
+   "CHEMBL1908391",
+   "CHEMBL23293",
+   "CHEMBL3186849",
+   "CHEMBL2158685",
+   "CHEMBL1289926",
+   "CHEMBL1093059",
+   "CHEMBL1194287",
+   "CHEMBL830",
+   "CHEMBL1609430",
+   "CHEMBL45816",
+   "CHEMBL27",
+   "CHEMBL77305",
+   "CHEMBL1957038",
+   "CHEMBL602",
+   "CHEMBL4303483",
+   "CHEMBL55",
+   "CHEMBL2107143",
+   "CHEMBL4068611",
+   "CHEMBL3235620",
+   "CHEMBL549748",
+   "CHEMBL4206119",
+   null,
+   null,
+   "CHEMBL4297466",
+   "CHEMBL157366",
+   "CHEMBL118218",
+   "CHEMBL4559134",
+   "CHEMBL454801",
+   "CHEMBL2107877",
+   null,
+   null,
+   null,
+   "CHEMBL4298094",
+   "CHEMBL2108359",
+   "CHEMBL2108345",
+   "CHEMBL1743024",
+   "CHEMBL1743013",
+   null,
+   null,
+   null,
+   null,
+   null,
+   "CHEMBL3545262",
+   null,
+   "CHEMBL2109377",
+   "CHEMBL4297924",
+   null,
+   "CHEMBL2108045",
+   "CHEMBL4298091",
+   "CHEMBL2109667",
+   "CHEMBL3301588",
+   null,
+   "CHEMBL1742984",
+   "CHEMBL1742999",
+   null,
+   "CHEMBL2109384"
+  ]
+ },
+ {
+  "gard": 9430,
+  "MONDO": "MONDO:0010122",
+  "UNII": [
+   "KYX76U3WJ4"
+  ],
+  "CHEMBL": [
+   null
+  ]
+ },
+ {
+  "gard": 9433,
+  "MONDO": "MONDO:0000688",
+  "UNII": [
+   "5L0HB4V1EW"
+  ],
+  "CHEMBL": [
+   "CHEMBL1201780"
+  ]
+ },
+ {
+  "gard": 9457,
+  "MONDO": "MONDO:0000447",
+  "UNII": [
+   "6XF3C2HK77"
+  ],
+  "CHEMBL": [
+   "CHEMBL2107211"
+  ]
+ },
+ {
+  "gard": 9493,
+  "MONDO": "MONDO:0011603",
+  "UNII": [
+   "GZP2782OP0"
+  ],
+  "CHEMBL": [
+   "CHEMBL2105945"
+  ]
+ },
+ {
+  "gard": 9496,
+  "MONDO": "MONDO:0009071",
+  "UNII": [
+   "EE90ONI6FF"
+  ],
+  "CHEMBL": [
+   "CHEMBL3989822"
+  ]
+ },
+ {
+  "gard": 9525,
+  "MONDO": "MONDO:0005706",
+  "UNII": [
+   "9Z22C3QQCJ",
+   "ZP77O7YY70"
+  ],
+  "CHEMBL": [
+   "CHEMBL35306",
+   null
+  ]
+ },
+ {
+  "gard": 9531,
+  "MONDO": "MONDO:0000878",
+  "UNII": [
+   "02L083W284",
+   "P9G3CKZ4P5",
+   "7COI029E6K"
+  ],
+  "CHEMBL": [
+   "CHEMBL1200850",
+   "CHEMBL182",
+   null
+  ]
+ },
+ {
+  "gard": 9551,
+  "MONDO": "MONDO:0015265",
+  "UNII": [
+   "9013DUQ28K",
+   "83HN0GTJ6D"
+  ],
+  "CHEMBL": [
+   "CHEMBL1201570",
+   "CHEMBL160"
+  ]
+ },
+ {
+  "gard": 9553,
+  "MONDO": "MONDO:0019088",
+  "UNII": [
+   "F9670LP52I",
+   "2A26YW7PNX"
+  ],
+  "CHEMBL": [
+   "CHEMBL3990003",
+   null
+  ]
+ },
+ {
+  "gard": 9554,
+  "MONDO": "MONDO:0000290",
+  "UNII": [
+   "L26BTK4791"
+  ],
+  "CHEMBL": [
+   null
+  ]
+ },
+ {
+  "gard": 9596,
+  "MONDO": null,
+  "UNII": [
+   "HM5641GA6F"
+  ],
+  "CHEMBL": [
+   "CHEMBL1201573"
+  ]
+ },
+ {
+  "gard": 9615,
+  "MONDO": "MONDO:0008538",
+  "UNII": [
+   "7D0YB67S97"
+  ],
+  "CHEMBL": [
+   "CHEMBL1201823"
+  ]
+ },
+ {
+  "gard": 9650,
+  "MONDO": "MONDO:0009875",
+  "UNII": [
+   "B769I4XPY3"
+  ],
+  "CHEMBL": [
+   null
+  ]
+ },
+ {
+  "gard": 9670,
+  "MONDO": "MONDO:0012897",
+  "UNII": [
+   "T74K1VTI2X"
+  ],
+  "CHEMBL": [
+   null
+  ]
+ },
+ {
+  "gard": 9687,
+  "MONDO": "MONDO:0015254",
+  "UNII": [
+   "WF15T5925V"
+  ],
+  "CHEMBL": [
+   "CHEMBL1235551"
+  ]
+ },
+ {
+  "gard": 9738,
+  "MONDO": "MONDO:0007869",
+  "UNII": [
+   "IGL471WQ8P"
+  ],
+  "CHEMBL": [
+   "CHEMBL48449"
+  ]
+ },
+ {
+  "gard": 9748,
+  "MONDO": "MONDO:0005100",
+  "UNII": [
+   "D2UX06XLB5",
+   "7QM776WJ5N",
+   "45II35329V",
+   "JED5K35YGL",
+   "28Q8AG0PYL",
+   "HB76GLG27V",
+   "KTJCIKNF3F",
+   "67RHC0R671",
+   "W0122B976Y"
+  ],
+  "CHEMBL": [
+   "CHEMBL43452",
+   "CHEMBL231884",
+   "CHEMBL4303187",
+   "CHEMBL494",
+   "CHEMBL4091374",
+   "CHEMBL67776",
+   null,
+   "CHEMBL4297747",
+   "CHEMBL2108358"
+  ]
+ },
+ {
+  "gard": 9751,
+  "MONDO": "MONDO:0016356",
+  "UNII": [
+   "7J12CD6O9L"
+  ],
+  "CHEMBL": [
+   null
+  ]
+ },
+ {
+  "gard": 9767,
+  "MONDO": "MONDO:0004639",
+  "UNII": [
+   "JL5DK93RCL",
+   "1PRR1V42V5",
+   "9913I24QEE",
+   "KG21X1090A",
+   "TZK30RF92W"
+  ],
+  "CHEMBL": [
+   "CHEMBL45",
+   "CHEMBL2109070",
+   null,
+   null,
+   "CHEMBL2108314"
+  ]
+ },
+ {
+  "gard": 9789,
+  "MONDO": "MONDO:0002013",
+  "UNII": [
+   "3K9958V90M",
+   "2F42BH7X2L"
+  ],
+  "CHEMBL": [
+   "CHEMBL545",
+   null
+  ]
+ },
+ {
+  "gard": 9802,
+  "MONDO": "MONDO:0008892",
+  "UNII": [
+   "UYB6UOF69L"
+  ],
+  "CHEMBL": [
+   "CHEMBL363392"
+  ]
+ },
+ {
+  "gard": 9813,
+  "MONDO": "MONDO:0011906",
+  "UNII": [
+   "G1JO7801AE"
+  ],
+  "CHEMBL": [
+   "CHEMBL205596"
+  ]
+ },
+ {
+  "gard": 9852,
+  "MONDO": "MONDO:0054869",
+  "UNII": [
+   "1U511HHV4Z"
+  ],
+  "CHEMBL": [
+   "CHEMBL558"
+  ]
+ },
+ {
+  "gard": 9856,
+  "MONDO": null,
+  "UNII": [
+   "B72HH48FLU",
+   "JG8OB4UL9Y",
+   "5B307S63B2",
+   "4RA0KN46E0",
+   "0Z1FKO93PO",
+   "71M78END5S",
+   "90ZX3Q3FR7",
+   "I2A72G2V3J",
+   "O1VIU3R1NE",
+   "1W306TDA6S"
+  ],
+  "CHEMBL": [
+   "CHEMBL1201581",
+   "CHEMBL4298167",
+   "CHEMBL1200500",
+   "CHEMBL3622821",
+   null,
+   "CHEMBL4298065",
+   "CHEMBL3990029",
+   "CHEMBL1743015",
+   null,
+   "CHEMBL444633"
+  ]
+ },
+ {
+  "gard": 9857,
+  "MONDO": "MONDO:0009960",
+  "UNII": [
+   "1XL6BJI034",
+   "B72HH48FLU",
+   "JG8OB4UL9Y",
+   "4Q81I59GXC",
+   "KGZ1SLC28Z",
+   "Z80293URPV",
+   "0Z1FKO93PO",
+   "1FKD81GIZJ",
+   "328101264R",
+   "3X7931PO74",
+   "I2A72G2V3J",
+   "Z7HVY03PHP"
+  ],
+  "CHEMBL": [
+   null,
+   "CHEMBL1201581",
+   "CHEMBL4298167",
+   "CHEMBL704",
+   "CHEMBL1586",
+   "CHEMBL3707247",
+   null,
+   null,
+   "CHEMBL4297564",
+   "CHEMBL1091",
+   "CHEMBL1743015",
+   "CHEMBL3990014"
+  ]
+ },
+ {
+  "gard": 9912,
+  "MONDO": "MONDO:0016532",
+  "UNII": [
+   "2MRO291B4U",
+   "X72RBB02N8",
+   "0H73WJJ391",
+   "WFW942PR79",
+   "U3H27498KS",
+   "2DS058H2CF",
+   "19GBJ60SN5",
+   "P7725I9V3Z"
+  ],
+  "CHEMBL": [
+   "CHEMBL70418",
+   "CHEMBL1094",
+   "CHEMBL220492",
+   "CHEMBL1201754",
+   "CHEMBL741",
+   "CHEMBL87493",
+   "CHEMBL190461",
+   "CHEMBL2087003"
+  ]
+ },
+ {
+  "gard": 9961,
+  "MONDO": "MONDO:0000930",
+  "UNII": [
+   "58IFB293JI"
+  ],
+  "CHEMBL": [
+   "CHEMBL98"
+  ]
+ },
+ {
+  "gard": 10047,
+  "MONDO": "MONDO:0017909",
+  "UNII": [
+   "GAN16C9B8O"
+  ],
+  "CHEMBL": [
+   "CHEMBL1543"
+  ]
+ },
+ {
+  "gard": 10191,
+  "MONDO": "MONDO:0002125",
+  "UNII": [
+   "R60L0SM5BC",
+   "OJ245FE5EU",
+   "B4SF212641",
+   "6158TKW0C5",
+   "S39XZ5QV8Y",
+   "33CM23913M",
+   "Q3JTX2Q7TU",
+   "98WI44OHIQ",
+   "OIC0UYZ1W6"
+  ],
+  "CHEMBL": [
+   "CHEMBL655",
+   "CHEMBL1356",
+   "CHEMBL1201336",
+   "CHEMBL16",
+   "CHEMBL207538",
+   "CHEMBL108",
+   "CHEMBL12",
+   "CHEMBL1568698",
+   null
+  ]
+ },
+ {
+  "gard": 10224,
+  "MONDO": "MONDO:0019136",
+  "UNII": [
+   "31Q44514JV"
+  ],
+  "CHEMBL": [
+   "CHEMBL3137333"
+  ]
+ },
+ {
+  "gard": 10269,
+  "MONDO": null,
+  "UNII": [
+   "0FD207WKDU"
+  ],
+  "CHEMBL": [
+   "CHEMBL590799"
+  ]
+ },
+ {
+  "gard": 10287,
+  "MONDO": "MONDO:0007295",
+  "UNII": [
+   "I00Q766CZ2"
+  ],
+  "CHEMBL": [
+   "CHEMBL328560"
+  ]
+ },
+ {
+  "gard": 10328,
+  "MONDO": "MONDO:0022839",
+  "UNII": [
+   "7J8897W37S",
+   "64FS3BFH5W",
+   "4Q86AH641A",
+   "K3GDH6OH08",
+   "O3J8G9O825",
+   "H19C446XXB",
+   "7LP2MPO46S",
+   "99YXE507IL",
+   "AE28F7PNPL",
+   "6L3XT8CB3I",
+   "4B9XT59T7S",
+   "J08H62IZC9",
+   "1IEO802L3J",
+   "S256WJ3OFQ",
+   "05469V2RW8",
+   "LT369U66CE"
+  ],
+  "CHEMBL": [
+   "CHEMBL465",
+   null,
+   "CHEMBL23094",
+   "CHEMBL1460",
+   "CHEMBL163",
+   "CHEMBL77305",
+   "CHEMBL1088977",
+   "CHEMBL3989702",
+   "CHEMBL42336",
+   "CHEMBL853",
+   "CHEMBL129",
+   null,
+   "CHEMBL2107911",
+   null,
+   "CHEMBL372283",
+   "CHEMBL1743029"
+  ]
+ },
+ {
+  "gard": 10335,
+  "MONDO": "MONDO:0001586",
+  "UNII": [
+   "DZ671709NT"
+  ],
+  "CHEMBL": [
+   "CHEMBL2206194"
+  ]
+ },
+ {
+  "gard": 10353,
+  "MONDO": "MONDO:0019142",
+  "UNII": [
+   "H50H3S3W74",
+   "QW68W3J66U"
+  ],
+  "CHEMBL": [
+   "CHEMBL1201255",
+   "CHEMBL441738"
+  ]
+ },
+ {
+  "gard": 10418,
+  "MONDO": "MONDO:0018660",
+  "UNII": [
+   "1U5PI2DLU1"
+  ],
+  "CHEMBL": [
+   "CHEMBL2108148"
+  ]
+ },
+ {
+  "gard": 10428,
+  "MONDO": "MONDO:0018608",
+  "UNII": [
+   "J7A92W69L7"
+  ],
+  "CHEMBL": [
+   "CHEMBL2103827"
+  ]
+ },
+ {
+  "gard": 10430,
+  "MONDO": "MONDO:0100135",
+  "UNII": [
+   "T97CB3796L",
+   "Q3JTX2Q7TU",
+   "0111871I23",
+   "R02XOT8V8I",
+   "19GBJ60SN5",
+   "YBK48BXK30"
+  ],
+  "CHEMBL": [
+   "CHEMBL1407943",
+   "CHEMBL12",
+   "CHEMBL395280",
+   "CHEMBL1983350",
+   "CHEMBL190461",
+   "CHEMBL621"
+  ]
+ },
+ {
+  "gard": 10443,
+  "MONDO": "MONDO:0018784",
+  "UNII": [
+   "28X0AGG6P8"
+  ],
+  "CHEMBL": [
+   "CHEMBL2109591"
+  ]
+ },
+ {
+  "gard": 10444,
+  "MONDO": null,
+  "UNII": [
+   "1RXS4UE564"
+  ],
+  "CHEMBL": [
+   "CHEMBL1201593"
+  ]
+ },
+ {
+  "gard": 10452,
+  "MONDO": "MONDO:0001711",
+  "UNII": [
+   "058TS43PSM",
+   "9D6YZ105SN"
+  ],
+  "CHEMBL": [
+   null,
+   "CHEMBL4297204"
+  ]
+ },
+ {
+  "gard": 10482,
+  "MONDO": "MONDO:0017594",
+  "UNII": [
+   "4FR53SIF3A"
+  ],
+  "CHEMBL": [
+   "CHEMBL1742992"
+  ]
+ },
+ {
+  "gard": 10531,
+  "MONDO": null,
+  "UNII": [
+   "P9G3CKZ4P5"
+  ],
+  "CHEMBL": [
+   "CHEMBL182"
+  ]
+ },
+ {
+  "gard": 10593,
+  "MONDO": "MONDO:0013111",
+  "UNII": [
+   "WYQ7N0BPYC",
+   "2968PHW8QP",
+   "H2MZ648C31",
+   "N9A0A0R9S8",
+   "AJ7U77BR8I"
+  ],
+  "CHEMBL": [
+   "CHEMBL600",
+   "CHEMBL2107737",
+   "CHEMBL225157",
+   "CHEMBL203266",
+   null
+  ]
+ },
+ {
+  "gard": 10637,
+  "MONDO": "MONDO:0016703",
+  "UNII": [
+   "38184303XR"
+  ],
+  "CHEMBL": [
+   "CHEMBL3989955"
+  ]
+ },
+ {
+  "gard": 10668,
+  "MONDO": "MONDO:0000481",
+  "UNII": [
+   "H789N3FKE8",
+   "E211KPY694",
+   "0Y70779M1F",
+   "U1R2P71O7G"
+  ],
+  "CHEMBL": [
+   "CHEMBL701",
+   "CHEMBL4297862",
+   "CHEMBL2108710",
+   null
+  ]
+ },
+ {
+  "gard": 10720,
+  "MONDO": "MONDO:0005996",
+  "UNII": [
+   "81G6I5V05I"
+  ],
+  "CHEMBL": [
+   "CHEMBL685"
+  ]
+ },
+ {
+  "gard": 10739,
+  "MONDO": "MONDO:0016295",
+  "UNII": [
+   "Q8X02027X3",
+   "5UX2SD1KE2",
+   "BQ5JE2DA91",
+   "1B56C968OA"
+  ],
+  "CHEMBL": [
+   "CHEMBL457",
+   "CHEMBL602",
+   "CHEMBL555486",
+   "CHEMBL1201556"
+  ]
+ },
+ {
+  "gard": 10747,
+  "MONDO": "MONDO:0005556",
+  "UNII": [
+   "JQ11LH711M",
+   "P3UVQ22SHK"
+  ],
+  "CHEMBL": [
+   "CHEMBL2107549",
+   "CHEMBL2108171"
+  ]
+ },
+ {
+  "gard": 10748,
+  "MONDO": "MONDO:0000557",
+  "UNII": [
+   "K76S41V71X"
+  ],
+  "CHEMBL": [
+   "CHEMBL1875805"
+  ]
+ },
+ {
+  "gard": 10753,
+  "MONDO": "MONDO:0016471",
+  "UNII": [
+   "W36ZG6FT64"
+  ],
+  "CHEMBL": [
+   "CHEMBL413"
+  ]
+ },
+ {
+  "gard": 10766,
+  "MONDO": "MONDO:0018029",
+  "UNII": [
+   "F7R0FBC1XD"
+  ],
+  "CHEMBL": [
+   null
+  ]
+ },
+ {
+  "gard": 10768,
+  "MONDO": "MONDO:0018925",
+  "UNII": [
+   "R7PLA2DM0J"
+  ],
+  "CHEMBL": [
+   "CHEMBL30008"
+  ]
+ },
+ {
+  "gard": 10804,
+  "MONDO": "MONDO:0006043",
+  "UNII": [
+   "NY22HMQ4BX"
+  ],
+  "CHEMBL": [
+   "CHEMBL1200374"
+  ]
+ },
+ {
+  "gard": 10806,
+  "MONDO": "MONDO:0010246",
+  "UNII": [
+   "98WI44OHIQ"
+  ],
+  "CHEMBL": [
+   "CHEMBL1568698"
+  ]
+ },
+ {
+  "gard": 10927,
+  "MONDO": "MONDO:0016168",
+  "UNII": [
+   "37CQ2C7X93",
+   "9013DUQ28K"
+  ],
+  "CHEMBL": [
+   "CHEMBL1201834",
+   "CHEMBL1201570"
+  ]
+ },
+ {
+  "gard": 10939,
+  "MONDO": "MONDO:0013038",
+  "UNII": [
+   "3K9958V90M",
+   "0AWH8BFG9A"
+  ],
+  "CHEMBL": [
+   "CHEMBL545",
+   null
+  ]
+ },
+ {
+  "gard": 10940,
+  "MONDO": "MONDO:0019504",
+  "UNII": [
+   "T9O10FB50M"
+  ],
+  "CHEMBL": [
+   null
+  ]
+ },
+ {
+  "gard": 10949,
+  "MONDO": "MONDO:0019137",
+  "UNII": [
+   "SHS4PU80D9",
+   "JL5DK93RCL",
+   "3ZX95B1ZWK"
+  ],
+  "CHEMBL": [
+   "CHEMBL2103822",
+   "CHEMBL45",
+   "CHEMBL4079759"
+  ]
+ },
+ {
+  "gard": 10955,
+  "MONDO": "MONDO:0018997",
+  "UNII": [
+   "NQX9KB6PCL"
+  ],
+  "CHEMBL": [
+   "CHEMBL1201621"
+  ]
+ },
+ {
+  "gard": 10964,
+  "MONDO": "MONDO:0020547",
+  "UNII": [
+   "4Z8R6ORS6L",
+   "6I3O3W6O3B",
+   "83HN0GTJ6D",
+   "G162GK9U4W",
+   "82S8X8XX8H",
+   "19GBJ60SN5",
+   "19J3781LPM",
+   "5B307S63B2",
+   "3YH0N35CE3",
+   "3FXW1IW7WT",
+   "43MX67MYM9",
+   "9RV78Q2002",
+   "Q805XO2F7C",
+   "TG824J6RQT"
+  ],
+  "CHEMBL": [
+   "CHEMBL468",
+   "CHEMBL3265032",
+   "CHEMBL160",
+   "CHEMBL960",
+   "CHEMBL1789941",
+   "CHEMBL190461",
+   "CHEMBL3622820",
+   "CHEMBL1200500",
+   null,
+   null,
+   null,
+   "CHEMBL1743087",
+   null,
+   "CHEMBL503868"
+  ]
+ },
+ {
+  "gard": 10966,
+  "MONDO": "MONDO:0019434",
+  "UNII": [
+   "4RA0KN46E0"
+  ],
+  "CHEMBL": [
+   "CHEMBL3622821"
+  ]
+ },
+ {
+  "gard": 10967,
+  "MONDO": "MONDO:0023249",
+  "UNII": [
+   "OP401G7OJC",
+   "91X1KLU43E"
+  ],
+  "CHEMBL": [
+   "CHEMBL1201572",
+   "CHEMBL1201833"
+  ]
+ },
+ {
+  "gard": 11005,
+  "MONDO": "MONDO:0015584",
+  "UNII": [
+   "YRZ676PGU6"
+  ],
+  "CHEMBL": [
+   null
+  ]
+ },
+ {
+  "gard": 11899,
+  "MONDO": "MONDO:0018307",
+  "UNII": [
+   "2BTY8KH53L"
+  ],
+  "CHEMBL": [
+   "CHEMBL70927"
+  ]
+ },
+ {
+  "gard": 11900,
+  "MONDO": null,
+  "UNII": [
+   "O27XRL3W27"
+  ],
+  "CHEMBL": [
+   null
+  ]
+ },
+ {
+  "gard": 11902,
+  "MONDO": "MONDO:0018940",
+  "UNII": [
+   "8HF8FIN815",
+   "RU4S6E2G0J"
+  ],
+  "CHEMBL": [
+   "CHEMBL3301611",
+   "CHEMBL354077"
+  ]
+ },
+ {
+  "gard": 11969,
+  "MONDO": null,
+  "UNII": [
+   "140QMO216E",
+   "2OEA2UN10Y",
+   "Q805XO2F7C"
+  ],
+  "CHEMBL": [
+   "CHEMBL137",
+   "CHEMBL3707376",
+   null
+  ]
+ },
+ {
+  "gard": 11977,
+  "MONDO": null,
+  "UNII": [
+   "J7P3696BCQ",
+   "71WO621TJD"
+  ],
+  "CHEMBL": [
+   "CHEMBL1256987",
+   "CHEMBL1200628"
+  ]
+ },
+ {
+  "gard": 11983,
+  "MONDO": "MONDO:0018338",
+  "UNII": [
+   "64CW205BDD"
+  ],
+  "CHEMBL": [
+   "CHEMBL4297648"
+  ]
+ },
+ {
+  "gard": 12027,
+  "MONDO": "MONDO:0005075",
+  "UNII": [
+   "AVX3D5A4LM",
+   "29OQ9EU4R1",
+   "6UH91I579U",
+   "PA7UX1FFYQ",
+   "02KSI6Z9AK"
+  ],
+  "CHEMBL": [
+   "CHEMBL1201533",
+   "CHEMBL41632",
+   "CHEMBL1614701",
+   "CHEMBL549748",
+   "CHEMBL1201532"
+  ]
+ },
+ {
+  "gard": 12097,
+  "MONDO": "MONDO:0010204",
+  "UNII": [
+   "K4YTU42T8G"
+  ],
+  "CHEMBL": [
+   "CHEMBL3039537"
+  ]
+ },
+ {
+  "gard": 12124,
+  "MONDO": "MONDO:0015545",
+  "UNII": [
+   "IKX7W49NLN"
+  ],
+  "CHEMBL": [
+   null
+  ]
+ },
+ {
+  "gard": 12510,
+  "MONDO": "MONDO:0017719",
+  "UNII": [
+   "K76S41V71X"
+  ],
+  "CHEMBL": [
+   "CHEMBL1875805"
+  ]
+ },
+ {
+  "gard": 12568,
+  "MONDO": "MONDO:0013060",
+  "UNII": [
+   "24B102R86P"
+  ],
+  "CHEMBL": [
+   null
+  ]
+ },
+ {
+  "gard": 12656,
+  "MONDO": "MONDO:0015564",
+  "UNII": [
+   "T4H8FMA7IM"
+  ],
+  "CHEMBL": [
+   "CHEMBL1743070"
+  ]
+ },
+ {
+  "gard": 12735,
+  "MONDO": "MONDO:0043370",
+  "UNII": [
+   "X4W7ZR7023"
+  ],
+  "CHEMBL": [
+   "CHEMBL650"
+  ]
+ },
+ {
+  "gard": 12757,
+  "MONDO": "MONDO:0018874",
+  "UNII": [
+   "5TAA004E22",
+   "PVI5M0M1GW",
+   "5VV3MDU5IE",
+   "U6USW86RD0",
+   "4Q356KA5V2",
+   "0W860991D6",
+   "WB59MRW00U",
+   "QSQ883V35U",
+   "6GS1ULF5HV",
+   "S3AZD8D215",
+   "LQF7I567TQ",
+   "67RM91WDHQ",
+   "E76113IR49",
+   "GPO2JN4UON",
+   "2PYF2U9JNF",
+   "6ZJ8V3Q0H1",
+   "80P1Q21652",
+   "JU19P2M2KM",
+   "M0Q7802G2B",
+   "S68QU67MAZ",
+   "54XUF2TZ7G",
+   "90YLS47BRX",
+   "x",
+   "V860J30J9N",
+   "U6E7R9OE4R"
+  ],
+  "CHEMBL": [
+   "CHEMBL1201670",
+   "CHEMBL1201567",
+   "CHEMBL1200976",
+   "CHEMBL1417019",
+   null,
+   "CHEMBL66115",
+   "CHEMBL4297261",
+   "CHEMBL2402737",
+   "CHEMBL4297676",
+   "CHEMBL1231160",
+   "CHEMBL2105728",
+   "CHEMBL1738758",
+   "CHEMBL3186849",
+   "CHEMBL1851943",
+   null,
+   "CHEMBL4594253",
+   "CHEMBL455983",
+   null,
+   "CHEMBL4297264",
+   null,
+   "CHEMBL4297811",
+   null,
+   null,
+   null,
+   null
+  ]
+ },
+ {
+  "gard": 12829,
+  "MONDO": "MONDO:0018469",
+  "UNII": [
+   "D959AE5USF",
+   "84319SGC3C"
+  ],
+  "CHEMBL": [
+   "CHEMBL1292",
+   "CHEMBL177"
+  ]
+ },
+ {
+  "gard": 12931,
+  "MONDO": "MONDO:0014379",
+  "UNII": [
+   "GF00K3IIWE"
+  ],
+  "CHEMBL": [
+   null
+  ]
+ },
+ {
+  "gard": 12959,
+  "MONDO": "MONDO:0015914",
+  "UNII": [
+   "59JV96YTXV"
+  ],
+  "CHEMBL": [
+   "CHEMBL1200461"
+  ]
+ },
+ {
+  "gard": 12983,
+  "MONDO": "MONDO:0009238",
+  "UNII": [
+   "A9R10K3F2F"
+  ],
+  "CHEMBL": [
+   "CHEMBL1615371"
+  ]
+ },
+ {
+  "gard": 13004,
+  "MONDO": "MONDO:0019514",
+  "UNII": [
+   "L7CHH2B2J0"
+  ],
+  "CHEMBL": [
+   "CHEMBL3707226"
+  ]
+ },
+ {
+  "gard": 13041,
+  "MONDO": "MONDO:0012860",
+  "UNII": [
+   "3Z6S89TXPW"
+  ],
+  "CHEMBL": [
+   null
+  ]
+ },
+ {
+  "gard": 13046,
+  "MONDO": "MONDO:0005674",
+  "UNII": [
+   "4EQZ6YO2HI"
+  ],
+  "CHEMBL": [
+   "CHEMBL1237023"
+  ]
+ },
+ {
+  "gard": 13103,
+  "MONDO": "MONDO:0019471",
+  "UNII": [
+   "YI437801BE",
+   "A8Q8I19Q20",
+   "58IFB293JI",
+   "7XL5ISS668",
+   "6SN82Y9U73",
+   "AYH22O1B1U",
+   "KUW1QG1ZM3"
+  ],
+  "CHEMBL": [
+   "CHEMBL1743041",
+   "CHEMBL1201746",
+   "CHEMBL98",
+   "CHEMBL1742994",
+   "CHEMBL550755",
+   "CHEMBL2108612",
+   "CHEMBL2108742"
+  ]
+ },
+ {
+  "gard": 13107,
+  "MONDO": "MONDO:0003556",
+  "UNII": [
+   "X91E9EME19"
+  ],
+  "CHEMBL": [
+   "CHEMBL1569545"
+  ]
+ },
+ {
+  "gard": 13124,
+  "MONDO": "MONDO:0013024",
+  "UNII": [
+   "Z9K9Y9WMVL",
+   "RU3FE2Y4XI"
+  ],
+  "CHEMBL": [
+   "CHEMBL2103873",
+   "CHEMBL2107834"
+  ]
+ },
+ {
+  "gard": 13215,
+  "MONDO": "MONDO:0005086",
+  "UNII": [
+   "624KN6GM2T",
+   "M89N0Q7EQR",
+   "2S9ZZM9Q9V",
+   "9ZOQ3TZI87",
+   "6B799IH05A",
+   "x",
+   "539B57DFJF",
+   "7A055A9QRR",
+   "X08H9UZ7TO"
+  ],
+  "CHEMBL": [
+   "CHEMBL1201182",
+   "CHEMBL1201438",
+   "CHEMBL1201583",
+   "CHEMBL1336",
+   "CHEMBL118218",
+   null,
+   "CHEMBL1743027",
+   "CHEMBL2108651",
+   "CHEMBL2108034"
+  ]
+ },
+ {
+  "gard": 13237,
+  "MONDO": "MONDO:0017604",
+  "UNII": [
+   "1X70OSD4VX",
+   "F0P408N6V4",
+   "YG57I8T5M0",
+   "WI6V529FZ9",
+   "U59UGK3IPC"
+  ],
+  "CHEMBL": [
+   "CHEMBL1873475",
+   "CHEMBL848",
+   "CHEMBL2216870",
+   "CHEMBL3218576",
+   "CHEMBL2108354"
+  ]
+ },
+ {
+  "gard": 13334,
+  "MONDO": "MONDO:0001982",
+  "UNII": [
+   "6D5766Q4OP"
+  ],
+  "CHEMBL": [
+   "CHEMBL3707358"
+  ]
+ },
+ {
+  "gard": 13445,
+  "MONDO": null,
+  "UNII": [
+   "9HW64Q8G6G",
+   "IEU56G3J9C",
+   "7RPW6SU9SC",
+   "K3BO8V06RM",
+   "GBW044919E",
+   "1VXP4V453T",
+   "Q461L7AK4R",
+   "GVG18ZDN65"
+  ],
+  "CHEMBL": [
+   "CHEMBL1908360",
+   null,
+   "CHEMBL3526802",
+   "CHEMBL553939",
+   "CHEMBL2105643",
+   "CHEMBL1200863",
+   "CHEMBL1615779",
+   "CHEMBL4297946"
+  ]
+ },
+ {
+  "gard": 13613,
+  "MONDO": null,
+  "UNII": [
+   "62B4OXU259",
+   "99A0041VG8"
+  ],
+  "CHEMBL": [
+   "CHEMBL1743055",
+   null
+  ]
+ },
+ {
+  "gard": 13659,
+  "MONDO": null,
+  "UNII": [
+   "IOW153004F"
+  ],
+  "CHEMBL": [
+   "CHEMBL298734"
+  ]
+ }
+]
