@@ -1,4 +1,4 @@
-# Project evaluating drug mechanisms of rare disease indications in BioThings Explorer 
+# Project to evaluate drug mechanisms of rare disease indications in BioThings Explorer 
 
 ## Rare disease indications data set
 Data set can be downloaded [here](https://www.accessdata.fda.gov/scripts/opdlisting/oopd/)
