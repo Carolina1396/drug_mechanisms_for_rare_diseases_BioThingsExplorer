@@ -3,7 +3,7 @@ import glob
 import os
 import pathlib
 import sys
-from query_namedthing import query
+from query_dict import query
 
 __location__ = os.path.realpath(os.path.join(os.getcwd(), os.path.dirname(__file__)))
 
