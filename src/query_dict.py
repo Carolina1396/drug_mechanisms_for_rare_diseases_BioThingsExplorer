@@ -126,8 +126,8 @@ def make_request(mondo_id, chembl_id, template):
 
 def eval_saved_res (mondo_id, chembl_id, template):
     """
-    This function evaluates if response of gard_id is saved and if it was successful.
-    It makes request if gard_id hasnt been evaluated or if if there was an error on request/response
+    This function evaluates if response is already saved and if it was successful.
+    If not evaluted or error. Make request
     """
 
     #Access to files to evaluate
@@ -175,22 +175,17 @@ def eval_saved_res (mondo_id, chembl_id, template):
 
             # Request was not successful
             if "BTE timed out" in resp:
-                #print ("An Error Type of MONDO: " + str(mondo_id) + "-"+ str(chembl_id) + " " + "is already saved")
-               #return (resp)
                 return(make_request(mondo_id, chembl_id, template))
                 
             if "ConnectionError" in resp:
-                #print ("An Error Type of MONDO: " + str(gard_id) + " " + "is already saved")
-                 return(make_request(mondo_id, chembl_id, template))
+                return(make_request(mondo_id, chembl_id, template))
 
 #Evaluate if response has unii of interest
 def check_response(response):
     """
-    This function check if the query response contains the unii id of interest
-    :response: Response results of query request
-    :unii: unique ingredient identifier
+    This function check if the query doesnt returns empty response
     """
-
+    
     # Error on request
     if "Error_Type:" in response:
         return ("Request error")
@@ -212,8 +207,9 @@ def query(output_file, template_path):
     :output_file: csv File to save results
     :template_path: Metapath templates
 
-    This function open the oopd dictionary json file. And then makes request for each gard id and evaluate response for corresponding unii's
-    This function takes the response and then calls the check_if _response_contain_unii function.
+    This function open the oopd dictionary json file (Drug-Disease ids).  
+    It makes request for each mondo and evaluate response for corresponding chembl
+    This function takes the response and then calls the check _response function.
     Results are returned in csv file.
 
     """
@@ -235,13 +231,13 @@ def query(output_file, template_path):
                 writer.writeheader()
 
 
-                #Iterate over the gard:unii dictionary file
+                #Iterate over the MONDO:CHEMBL dictionary file
                 for key in data:
                     mondo_id = key["MONDO"]
                     chemb_list = key["CHEMBL"]
                     for chembl_id in chemb_list:
                         api_res = eval_saved_res(mondo_id, chembl_id, template_file) #Evaluate if file is saved and make request 
 
-                    #Check if response has unii and save results in csv
+                    #Check if response has CHEMBL and save results in csv
                         if api_res:
                             writer.writerow({'mondo id': mondo_id, 'chembl id': chembl_id, 'has hit': check_response(api_res)})
