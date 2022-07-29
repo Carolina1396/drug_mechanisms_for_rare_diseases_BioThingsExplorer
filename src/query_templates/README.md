@@ -1,7 +1,7 @@
 ## Query templates
 Templates to send BioThingsExplorer query requests.
 
-Example of query structure (Drug-Disease):
+Example of query structure (Disease-SmallMolecule):
 
 ```
 {
