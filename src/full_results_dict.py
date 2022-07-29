@@ -3,7 +3,7 @@ import glob
 import os
 import pathlib
 import sys
-from query_dict import query
+from query_namedthing import query
 
 __location__ = os.path.realpath(os.path.join(os.getcwd(), os.path.dirname(__file__)))
 
@@ -15,6 +15,9 @@ pathlib.Path(output_dir).mkdir(parents=True, exist_ok=True)
 
 
 def get_full_results():
+    """
+    Iterate over each template
+    """
     with open(full_results_fp, 'w', newline='') as full_results_f:
         full_results = dict()
 
@@ -31,16 +34,16 @@ def get_full_results():
             with open(output_fp, newline='', encoding='utf-8') as output_f:
                 reader = csv.DictReader(output_f, delimiter=',')
                 for row in reader:
-                    gard_id = row["mondo id"]
-                    unii_id = row["chembl id"]
+                    mondo_id = row["mondo id"]
+                    chembl_id = row["chembl id"]
                     has_hit = row["has hit"]
 
-                    full_results_key = (gard_id, unii_id)
+                    full_results_key = (mondo_id, chembl_id)
 
                     if full_results_key in full_results:
                         full_results_value = full_results[full_results_key]
                     else:
-                        full_results_value = {'mondo id': gard_id, 'chembl id': unii_id}
+                        full_results_value = {'mondo id': mondo_id, 'chembl id': chembl_id}
                         full_results[full_results_key] = full_results_value
 
                     full_results_value[template_name] = has_hit
